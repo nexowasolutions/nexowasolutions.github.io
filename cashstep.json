@@ -1,151 +1,143 @@
 {
-  "name": "5",
-  "buildNumber": "5",
-  "isOpenWebInRewardedAd": true,
-  "isOpenWebInInterstitialAd": true,
-  "isShowAppOpenAd": true,
-  "appOpenAdType": "google",
-  "secretKey": "y",
-  "urlAlgo": "pro",
-  "telegramUrl": "https://t.me/captchajobonline",
-  "androidPackageId": "cashStep.walk.earnRewards",
-  "iOSAppId": "",
-  "requiredMinimumBuildNumber": 5,
-  "recommendedMinimumBuildNumber": 5,
-  "dynamicLinkUrl": "https://cashStep.page.link",
-  "ratingReward": 200,
-  "isShowAnyReviewDialog": false,
-  "showCopyReviewButton": false,
-  "isShowCopyReviewDialog": false,
-  "shareText": "Hey this is amazing bro, You just walk and earn. I'm using it and I love it try it: {link}",
-  "preferedBrowser": "chromeCustomTabs",
-  "urlConfigs": [
+  "app": {
+    "name": "Organic",
+    "buildNumber": "6",
+    "requiredMinimumBuildNumber": 6,
+    "recommendedMinimumBuildNumber": 6,
+    "appBundleId": "cashStep.walk.earnRewards",
+    "dynamicLinkUrl": "https://cashStep.page.link",
+    "shareText": "Hey this is amazing bro, You just walk and earn. I'm using it and I love it try it: {link}",
+    "showCopyReviewButton": false,
+    "reviewRewardValue": 200,
+    "showReviewDialog": false,
+    "secretKey": "y"
+  },
+  "ads": {
+    "selectedAdNetwork": "google",
+    "adUnitIds": {
+      "banner": "/21753324030,23306104805/cashStep.walk.earnRewards_Banner",
+      "interstitial": "/21753324030,23306104805/cashStep.walk.earnRewards_Interstitial",
+      "rewarded": "/21753324030,23306104805/cashStep.walk.earnRewards_Rewarded",
+      "native": "/21753324030,23306104805/cashStep.walk.earnRewards_Native",
+      "appOpen": "/21753324030,23306104805/cashStep.walk.earnRewards_AppOpen",
+      "rewardedInterstitial": "/21753324030,23306104805/cashStep.walk.earnRewards_Rewarded",
+      "adaptiveBanner": "ca-app-pub-3940256099942544/9214589741",
+      "collapsibleBanner": "ca-app-pub-3940256099942544/2014213617"
+    },
+    "isShowAppOpenAd": true,
+    "appOpenAd": "google",
+    "openWebInAd": [
+      "rewarded",
+      "interstitial"
+    ],
+    "preferredBrowser": "chromeCustomTabs",
+    "webAdsAlgo": "pro",
+    "webAdsConfig": [
+      {
+        "url": "https://004.play.khelsaga.com/play-games",
+        "weightage": 50,
+        "maxClicks": 500000
+      }
+    ],
+    "actionAdConfig": {
+      "onBack": {
+        "adType": "none"
+      },
+      "onBackWebsite": {
+        "adType": "interstitial"
+      },
+      "dailyRewardNavigation": {
+        "adType": "interstitial"
+      },
+      "spinWheelNavigation": {
+        "adType": "interstitial"
+      },
+      "redeemGiftsNavigation": {
+        "adType": "interstitial"
+      },
+      "stepRewardNavigation": {
+        "adType": "interstitial"
+      },
+      "spinWheelClaim": {
+        "adType": "rewarded"
+      },
+      "countDownReward": {
+        "adType": "interstitial"
+      },
+      "dailyCheckReward": {
+        "adType": "interstitial"
+      },
+      "redeemGiftsSpin": {
+        "adType": "rewarded"
+      },
+      "doubleReward": {
+        "adType": "rewarded"
+      },
+      "stepRewardClaim": {
+        "adType": "none"
+      },
+      "dailyRewardClaim": {
+        "adType": "rewarded"
+      },
+      "redeemGiftsRefresh": {
+        "adType": "rewarded"
+      },
+      "redeemNavigation": {
+        "adType": "interstitial"
+      },
+      "redeemProductClaim": {
+        "adType": "interstitial"
+      }
+    },
+    "bannerAdsLayoutConfig": {
+      "home": {
+        "adType": "none",
+        "size": "small",
+        "layoutType": 2
+      },
+      "redeem": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 1
+      },
+      "bonus": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      },
+      "stat": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      },
+      "dailyReward": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 1
+      },
+      "spinWheel": {
+        "adType": "none",
+        "size": "small",
+        "layoutType": 1
+      },
+      "redeemGifts": {
+        "adType": "none",
+        "size": "small",
+        "layoutType": 2
+      },
+      "stepReward": {
+        "adType": "nativeAd",
+        "size": "medium",
+        "layoutType": 3
+      }
+    }
+  },
+  "social": [
     {
-      "url": "https://004.play.khelsaga.com/play-games",
-      "weightage": 50,
-      "maxClicks": 500000
+      "name": "telegram",
+      "link": "https://t.me/captchajobonline",
+      "reward": 50
     }
-  ],
-  "bannerAdConfig": {
-    "home": false,
-    "redeem": true,
-    "bonus": true,
-    "stat": true,
-    "dailyReward": true,
-    "spinWheel": true,
-    "redeemGifts": true,
-    "stepReward": true
-  },
-  "bannerAdsLayoutConfig": {
-    "home": {
-      "adType": "nativeAd",
-      "size": "small",
-      "layoutType": 2
-    },
-    "bonus": {
-      "adType": "nativeAd",
-      "size": "small",
-      "layoutType": 2
-    },
-    "stat": {
-      "adType": "nativeAd",
-      "size": "small",
-      "layoutType": 2
-    },
-    "redeem": {
-      "adType": "nativeAd",
-      "size": "small",
-      "layoutType": 1
-    },
-    "dailyReward": {
-      "adType": "nativeAd",
-      "size": "small",
-      "layoutType": 1
-    },
-    "spinWheel": {
-      "adType": "nativeAd",
-      "size": "small",
-      "layoutType": 1
-    },
-    "redeemGifts": {
-      "adType": "nativeAd",
-      "size": "small",
-      "layoutType": 2
-    },
-    "stepReward": {
-      "adType": "nativeAd",
-      "size": "medium",
-      "layoutType": 3
-    }
-  },
-  "adsTypeConfig": {
-    "onBack": "none",
-    "onBackWebsite": "interstitial",
-    "dailyRewardNavigation": "interstitial",
-    "spinWheelNavigation": "interstitial",
-    "redeemGiftsNavigation": "interstitial",
-    "redeemNavigation": "interstitial",
-    "stepRewardNavigation": "interstitial",
-    "spinWheelClaim": "rewarded",
-    "countDownReward": "interstitial",
-    "dailyCheckReward": "interstitial",
-    "doubleReward": "rewarded",
-    "stepRewardClaim": "none",
-    "dailyRewardClaim": "rewarded",
-    "redeemGiftsRefresh": "rewarded",
-    "redeemGiftsSpin": "rewarded"
-  },
-  "spinConfigs": {
-    "redeemGifts": {
-      "dailySpin": 15
-    },
-    "spinWheel": {
-      "dailySpin": 15
-    }
-  },
-  "appOpenAdUnit": {
-    "ios": "ca-app-pub-3940256099942544/5575463023",
-    "android": "/21753324030,23306104805/cashStep.walk.earnRewards_AppOpen"
-  },
-  "bannerAdUnit": {
-    "ios": "ca-app-pub-3940256099942544/2934735716",
-    "android": "/21753324030,23306104805/cashStep.walk.earnRewards_Banner"
-  },
-  "interstitialAdUnit": {
-    "ios": "ca-app-pub-3940256099942544/4411468910",
-    "android": "/21753324030,23306104805/cashStep.walk.earnRewards_Interstitial"
-  },
-  "nativeAdUnit": {
-    "ios": "ca-app-pub-3940256099942544/3986624511",
-    "android": "/21753324030,23306104805/cashStep.walk.earnRewards_Native"
-  },
-  "rewardedAdUnit": {
-    "ios": "ca-app-pub-3940256099942544/1712485313",
-    "android": "/21753324030,23306104805/cashStep.walk.earnRewards_Rewarded"
-  },
-  "rewardedInterstitialAdUnit": {
-    "ios": "ca-app-pub-3940256099942544/6978759866",
-    "android": "/21753324030,23306104805/cashStep.walk.earnRewards_Rewarded"
-  },
-  "adaptiveBannerAdUnit": {
-    "ios": "ca-app-pub-3940256099942544/2435281174",
-    "android": "ca-app-pub-3940256099942544/9214589741"
-  },
-  "collapsibleBannerAdUnit": {
-    "ios": "ca-app-pub-3940256099942544/8388050270",
-    "android": "ca-app-pub-3940256099942544/2014213617"
-  },
-  "sampleReviews": [
-    "this app is real i got payment after 3 days of work, thnks alot",
-    "nice app for timepass and some earning, not fake like others",
-    "i use it daily in free time, payment come in my wallet no issue",
-    "good but captcha speed sometimes slow, still okay for earning",
-    "i withdraw 2 times already its trusted one",
-    "helpfull app for students and no job peoples",
-    "real paying app not scammy, happy with it",
-    "captcha load take time sometime but app works fine mostly",
-    "i got payment its real, just need to do regular work",
-    "not too much money but better then nothing, app is ok"
   ],
   "customAds": [
     {
@@ -153,7 +145,7 @@
       "description": "Your dream phone is just a tap away. Join our giveaway now.",
       "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
-      "webroute": "",
+      "url": "",
       "action": "Play & Win",
       "countries": [
         "ALL"
@@ -164,7 +156,7 @@
       "description": "Track fitness, get notifications, and look cool doing it. Try your luck now!",
       "image": "https://images.unsplash.com/photo-1551816230-ef5deaed4a26?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
-      "webroute": "",
+      "url": "",
       "action": "Spin & Win",
       "countries": [
         "ALL"
@@ -175,7 +167,7 @@
       "description": "Step into the future of tech. This could be yours!",
       "image": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
-      "webroute": "",
+      "url": "",
       "action": "Enter to Win",
       "countries": [
         "ALL"
@@ -186,7 +178,7 @@
       "description": "Flagship performance, yours to win. Try your luck!",
       "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       "logo": "https://images.samsung.com/is/image/samsung/assets/us/about-us/brand/logo/pc/720_600_1.png?$720_N_PNG$",
-      "webroute": "",
+      "url": "",
       "action": "Try Now",
       "countries": [
         "ALL"
@@ -197,7 +189,7 @@
       "description": "Work, create, or game on a premium Mac. It could be yours!",
       "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
-      "webroute": "",
+      "url": "",
       "action": "Enter Draw",
       "countries": [
         "ALL"
@@ -208,7 +200,7 @@
       "description": "Fast, fun, and rewarding. Claim your chance at real money.",
       "image": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       "logo": "https://cdn-icons-png.flaticon.com/512/2150/2150150.png",
-      "webroute": "",
+      "url": "",
       "action": "Start Winning",
       "countries": [
         "ALL"
@@ -219,7 +211,7 @@
       "description": "Every spin is a chance to win Apple devices and cash!",
       "image": "https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
-      "webroute": "",
+      "url": "",
       "action": "Spin Now",
       "countries": [
         "ALL"
@@ -230,7 +222,7 @@
       "description": "From iPhones to Vision Pro — win premium gadgets daily!",
       "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
-      "webroute": "",
+      "url": "",
       "action": "Join Free Draw",
       "countries": [
         "ALL"
@@ -241,7 +233,7 @@
       "description": "Win iPhones, MacBooks, Watches & More — All in One Place!",
       "image": "https://images.unsplash.com/photo-1468495244123-6c6c332eeece?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
-      "webroute": "",
+      "url": "",
       "action": "Try Your Luck",
       "countries": [
         "ALL"
@@ -252,73 +244,117 @@
       "description": "Don't miss your chance to win real money or top gadgets.",
       "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
-      "webroute": "",
+      "url": "",
       "action": "Play Now",
       "countries": [
         "ALL"
       ]
     }
   ],
-  "withdrawOptions": [
+  "rewards": {
+    "dailyRewardMaxDays": 30,
+    "dailyRewardAmounts": [
+      10,
+      20,
+      30
+    ]
+  },
+  "crossPromotionApps": [
     {
-      "withdrawItem": "Samsung s24 ultra",
-      "image": "assets/images/samsung_s24_ultra.webp",
-      "coins": 6245
+      "name": "Super Puzzle Game",
+      "logo": "https://cdn.example.com/puzzle-logo.png",
+      "appLink": "https://play.google.com/store/apps/details?id=com.nexowa.puzzle",
+      "rewardValue": 25
     },
     {
-      "withdrawItem": "ipad air",
-      "image": "assets/images/ipad_pro.webp",
-      "coins": 4399
-    },
-    {
-      "withdrawItem": "iPhone 15 Pro",
-      "image": "assets/images/iphone15.webp",
-      "coins": 5999
-    },
-    {
-      "withdrawItem": "Headphone",
-      "image": "assets/images/headphone.webp",
-      "coins": 3000
-    },
-    {
-      "withdrawItem": "MacBook Air",
-      "image": "assets/images/macbook.webp",
-      "coins": 6463
-    },
-    {
-      "withdrawItem": "IMac",
-      "image": "assets/images/imac.webp",
-      "coins": 6995
-    },
-    {
-      "withdrawItem": "iPhone 14",
-      "image": "assets/images/iphone14_pro.webp",
-      "coins": 5877
-    },
-    {
-      "withdrawItem": "Sony Bravia",
-      "image": "assets/images/sony_bravia.webp",
-      "coins": 3234
-    },
-    {
-      "withdrawItem": "Dyson",
-      "image": "assets/images/dyson.webp",
-      "coins": 2876
-    },
-    {
-      "withdrawItem": "Air Pods",
-      "image": "assets/images/air_pods.webp",
-      "coins": 9876
-    },
-    {
-      "withdrawItem": "Apple Vision Pro",
-      "image": "assets/images/apple_vision.webp",
-      "coins": 5660
-    },
-    {
-      "withdrawItem": "Smartwatch",
-      "image": "assets/images/smartwatch.webp",
-      "coins": 3870
+      "name": "Photo Editor Pro",
+      "logo": "https://cdn.example.com/photo-editor-logo.png",
+      "appLink": "https://apps.apple.com/app/photo-editor-pro/id123456789",
+      "rewardValue": 30
     }
-  ]
+  ],
+  "userConfig": {
+    "spinConfigs": {
+      "redeemGifts": {
+        "dailySpin": 15
+      },
+      "spinWheel": {
+        "dailySpin": 15
+      }
+    },
+    "sampleReviews": [
+      "this app is real i got payment after 3 days of work, thnks alot",
+      "nice app for timepass and some earning, not fake like others",
+      "i use it daily in free time, payment come in my wallet no issue",
+      "good but captcha speed sometimes slow, still okay for earning",
+      "i withdraw 2 times already its trusted one",
+      "helpfull app for students and no job peoples",
+      "real paying app not scammy, happy with it",
+      "captcha load take time sometime but app works fine mostly",
+      "i got payment its real, just need to do regular work",
+      "not too much money but better then nothing, app is ok"
+    ],
+    "withdrawOptions": [
+      {
+        "withdrawItem": "Samsung s24 ultra",
+        "image": "assets/images/samsung_s24_ultra.webp",
+        "coins": 6245
+      },
+      {
+        "withdrawItem": "ipad air",
+        "image": "assets/images/ipad_pro.webp",
+        "coins": 4399
+      },
+      {
+        "withdrawItem": "iPhone 15 Pro",
+        "image": "assets/images/iphone15.webp",
+        "coins": 5999
+      },
+      {
+        "withdrawItem": "Headphone",
+        "image": "assets/images/headphone.webp",
+        "coins": 3000
+      },
+      {
+        "withdrawItem": "MacBook Air",
+        "image": "assets/images/macbook.webp",
+        "coins": 6463
+      },
+      {
+        "withdrawItem": "IMac",
+        "image": "assets/images/imac.webp",
+        "coins": 6995
+      },
+      {
+        "withdrawItem": "iPhone 14",
+        "image": "assets/images/iphone14_pro.webp",
+        "coins": 5877
+      },
+      {
+        "withdrawItem": "Sony Bravia",
+        "image": "assets/images/sony_bravia.webp",
+        "coins": 3234
+      },
+      {
+        "withdrawItem": "Dyson",
+        "image": "assets/images/dyson.webp",
+        "coins": 2876
+      },
+      {
+        "withdrawItem": "Air Pods",
+        "image": "assets/images/air_pods.webp",
+        "coins": 9876
+      },
+      {
+        "withdrawItem": "Apple Vision Pro",
+        "image": "assets/images/apple_vision.webp",
+        "coins": 5660
+      },
+      {
+        "withdrawItem": "Smartwatch",
+        "image": "assets/images/smartwatch.webp",
+        "coins": 3870
+      }
+    ]
+  }
 }
