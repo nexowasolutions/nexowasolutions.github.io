@@ -1,0 +1,211 @@
+{
+  "app": {
+    "name": "Opinion Rewards",
+    "buildNumber": "1",
+    "requiredMinimumBuildNumber": 6,
+    "recommendedMinimumBuildNumber": 6,
+    "appBundleId": "com.Technodeveloper.opinionRewards",
+    "dynamicLinkUrl": "https://opinionrewards.page.link",
+    "shareText": "Hey! Download the app now {link}",
+    "showCopyReviewButton": true,
+    "reviewRewardValue": 200,
+    "showReviewDialog": true,
+    "secretKey": "y"
+  },
+  "ads": {
+    "selectedAdNetwork": "google",
+    "adUnitIds": {
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "collapsibleBanner": "ca-app-pub-3940256099942544/2014213617",
+      "adaptiveBanner": "ca-app-pub-3940256099942544/9214589741",
+      "interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded": "ca-app-pub-3940256099942544/5224354917",
+      "rewardedInterstitial": "ca-app-pub-3940256099942544/5354046379",
+      "native": "ca-app-pub-3940256099942544/2247696110",
+      "appOpen": "ca-app-pub-3940256099942544/9257395921"
+    },
+    "isShowAppOpenAd": true,
+    "appOpenAd": "google",
+    "openWebInAd": [
+      "rewarded",
+      "interstitial"
+    ],
+    "preferredBrowser": "chromeCustomTabs",
+    "webAdsAlgo": "pro",
+    "webAdsConfig": [
+      {
+        "url": "https://google.com/",
+        "weightage": 50,
+        "maxClicks": 500
+      }
+    ],
+    "actionAdConfig": {
+      "onBack": {
+        "adType": "website"
+      },
+      "surveyNavigation": {
+        "adType": "website"
+      },
+      "surveyNextQuestionNavigation": {
+        "adType": "website"
+      },
+      "surveyPreviousQuestionNavigation": {
+        "adType": "website"
+      },
+      "exitSurveyNavigation": {
+        "adType": "website"
+      },
+      "exitSurveyCancelNavigation": {
+        "adType": "website"
+      },
+      "surveyCompletionNavigation": {
+        "adType": "website"
+      },
+      "nextSurveyNavigation": {
+        "adType": "website"
+      },
+      "noMoreSurveyNavigation": {
+        "adType": "website"
+      },
+      "closeSurveyNavigation": {
+        "adType": "website"
+      },
+      "spinWheelNavigation": {
+        "adType": "website"
+      },
+      "spinWheelCloseNavigation": {
+        "adType": "website"
+      },
+      "paymentMethodNavigation": {
+        "adType": "website"
+      },
+      "withdrawAmountTap": {
+        "adType": "website"
+      },
+      "withdrawNavigation": {
+        "adType": "website"
+      },
+      "spinWheelRewardClaim": {
+        "adType": "website"
+      },
+      "questsDailyRewardClaim": {
+        "adType": "website"
+      },
+      "questsMonthlyRewardClaim": {
+        "adType": "website"
+      },
+      "review": {
+        "adType": "website"
+      },
+      "shareApp": {
+        "adType": "website"
+      }
+    },
+    "bannerAdsLayoutConfig": {
+      "homeScreen": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      },
+      "questsScreen": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      },
+      "walletScreen": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      },
+      "paymentMethodScreen": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      },
+      "withdrawScreen": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      },
+      "surveyScreen": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 1
+      },
+      "surveyCompletionScreen": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 1
+      },
+      "spinWheelScreen": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 1
+      },
+      "inviteFriendScreen": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 1
+      }
+    }
+  },
+  "social": [
+    {
+      "name": "telegram",
+      "link": "https://t.me/captchajobonline",
+      "reward": 50
+    }
+  ],
+  "customAds": [
+    {
+      "title": "Boost Your Career",
+      "description": "Learn in-demand skills with our online courses.",
+      "image": "https://t3.ftcdn.net/jpg/02/55/22/68/360_F_255226859_Rhqr5hflr2esVXHQE1sS1bWxmZxs0gWI.jpg",
+      "logo": "https://img.freepik.com/premium-vector/education-logo-vector_1072857-11370.jpg",
+      "url": "https://nexowa.com/case-studies",
+      "action": "Enroll Now",
+      "countries": [
+        "ALL"
+      ]
+    }
+  ],
+  "rewards": {
+    "dailyRewardMaxDays": 30,
+    "dailyRewardAmounts": [
+      10,
+      20,
+      30
+    ]
+  },
+  "crossPromotionApps": [
+    {
+      "name": "Super Puzzle Game",
+      "logo": "https://cdn.example.com/puzzle-logo.png",
+      "appLink": "https://play.google.com/store/apps/details?id=com.nexowa.puzzle",
+      "rewardValue": 25
+    },
+    {
+      "name": "Photo Editor Pro",
+      "logo": "https://cdn.example.com/photo-editor-logo.png",
+      "appLink": "https://apps.apple.com/app/photo-editor-pro/id123456789",
+      "rewardValue": 30
+    }
+  ],
+  "userConfig": {
+    "minimumPayout": 2000,
+    "questsDailyReward": 20,
+    "questsMonthlyReward": 100,
+    "sampleReviews": [
+      "this app is real i got payment after 3 days of work, thnks alot",
+      "nice app for timepass and some earning, not fake like others",
+      "i use it daily in free time, payment come in my wallet no issue",
+      "good but captcha speed sometimes slow, still okay for earning",
+      "i withdraw 2 times already its trusted one",
+      "helpfull app for students and no job peoples",
+      "real paying app not scammy, happy with it",
+      "captcha load take time sometime but app works fine mostly",
+      "i got payment its real, just need to do regular work",
+      "not too much money but better then nothing, app is ok"
+    ]
+  }
+}
