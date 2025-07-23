@@ -15,44 +15,44 @@
   "isShowNewWithdrawScreen": false,
   "isShowSpinWheel": false,
   "show2xButton": true,
+  "appOpenAdUnit": {
+    "ios": "",
+    "android": "/21753324030,23309973686/captcha.Technodeveloper.onlineJob_AppOpen"
+  },
   "bannerAdUnit": {
     "ios": "",
-    "android": "ca-app-pub-6879086829396588/2115115107"
+    "android": "/21753324030,23309973686/captcha.Technodeveloper.onlineJob_Banner"
   },
   "interstitialAdUnit": {
     "ios": "",
-    "android": "ca-app-pub-6879086829396588/8616944272"
+    "android": "/21753324030,23309973686/captcha.Technodeveloper.onlineJob_Interstitial"
   },
   "rewardedAdUnit": {
     "ios": "",
-    "android": "ca-app-pub-6879086829396588/2931973958"
+    "android": "/21753324030,23309973686/captcha.Technodeveloper.onlineJob_Rewarded"
   },
   "nativeAdUnit": {
     "ios": "",
-    "android": "ca-app-pub-6879086829396588/6679647275"
-  },
-  "appOpenAdUnit": {
-    "ios": "",
-    "android": "ca-app-pub-6879086829396588/3861912243"
+    "android": "/21753324030,23309973686/captcha.Technodeveloper.onlineJob_Native"
   },
   "rewardedInterstitialAdUnit": {
     "ios": "",
-    "android": "ca-app-pub-6879086829396588/7303862601"
+    "android": "/21753324030,23309973686/captcha.Technodeveloper.onlineJob_Rewarded"
   },
   "adaptiveBannerAdUnit": {
     "ios": "",
-    "android": ""
+    "android": "/21753324030,23309973686/captcha.Technodeveloper.onlineJob_Interstitial"
   },
   "collapsibleBannerAdUnit": {
     "ios": "",
-    "android": ""
+    "android": "/21753324030,23309973686/captcha.Technodeveloper.onlineJob_Interstitial"
   },
-  "appOpenAdUnitId": "ca-app-pub-6879086829396588/3861912243",
-  "rewardedAdUnitId": "ca-app-pub-6879086829396588/2931973958",
-  "interstitialAdUnitId": "ca-app-pub-6879086829396588/8616944272",
-  "bannerAdUnitId": "ca-app-pub-6879086829396588/2115115107",
-  "nativeAdUnitId": "ca-app-pub-6879086829396588/6679647275",
-  "rewardedInterstitialAdUnitId": "ca-app-pub-6879086829396588/7303862601",
+  "appOpenAdUnitId": "/21753324030,23309973686/captcha.Technodeveloper.onlineJob_AppOpen",
+  "rewardedAdUnitId": "/21753324030,23309973686/captcha.Technodeveloper.onlineJob_Rewarded",
+  "interstitialAdUnitId": "/21753324030,23309973686/captcha.Technodeveloper.onlineJob_Interstitial",
+  "bannerAdUnitId": "/21753324030,23309973686/captcha.Technodeveloper.onlineJob_Banner",
+  "nativeAdUnitId": "/21753324030,23309973686/captcha.Technodeveloper.onlineJob_Native",
+  "rewardedInterstitialAdUnitId": "/21753324030,23309973686/captcha.Technodeveloper.onlineJob_Rewarded",
   "apiBaseUrl": "https://sendwithdrawemail-vigch7cg2q-uc.a.run.app",
   "bannerAdUrl": "https://firebasestorage.googleapis.com/v0/b/captch-job-online.firebasestorage.app/o/Play-IPL-quiz%20(5).jpg?alt=media&token=110bafd3-fefc-4c0f-9bde-b20395f5913b",
   "language": {
