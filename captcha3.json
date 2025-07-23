@@ -1,0 +1,670 @@
+{
+  "name": "26",
+  "buildNumber": "26",
+  "isMarqueeEnabled": true,
+  "showGoogleAuth": false,
+  "rewardMultiplier": 2.5,
+  "show2xButton": true,
+  "isShowWebCaptcha": true,
+  "isShowAppOpenAd": true,
+  "appOpenAdType": "google",
+  "requiredMinimumBuildNumber": 0,
+  "recommendedMinimumBuildNumber": 0,
+  "openWebCaptchaConfig": [
+    {
+      "timer": 30,
+      "coins": 10,
+      "imageUrl": "assets/images/qureka_ad_image.jpeg"
+    }
+  ],
+  "cardOrder": [
+    "number",
+    "text",
+    "slider",
+    "puzzle",
+    "copywriter",
+    "mathematical"
+  ],
+  "withdrawOptions": [
+    {
+      "coin": 3000,
+      "money": 100
+    },
+    {
+      "coin": 6000,
+      "money": 200
+    },
+    {
+      "coin": 15000,
+      "money": 500
+    },
+    {
+      "coin": 30000,
+      "money": 1000
+    },
+    {
+      "coin": 75000,
+      "money": 2500
+    }
+  ],
+  "isWithdrawEnabled": true,
+  "showAdsOnAppStateChange": false,
+  "maxAdsOnAppStateChange": 3,
+  "urlConfigs": [
+    {
+      "url": "https://001.play.khelsaga.com/best-health-insurance-plans",
+      "weightage": 20,
+      "maxClicks": 15
+    },
+    {
+      "url": "https://tiktacgame.com",
+      "weightage": 15,
+      "maxClicks": 1
+    },
+    {
+      "url": "https://001.play.khelsaga.com/best-health-insurance-plans",
+      "weightage": 10,
+      "maxClicks": 9
+    },
+    {
+      "url": "https://110-finance.fiveminutesgames.com",
+      "weightage": 5,
+      "maxClicks": 500000
+    }
+  ],
+  "appOpenAdUnitId": "ca-app-pub-2829769365583815/2385049827",
+  "rewardedAdUnitId": "ca-app-pub-2829769365583815/3889966512",
+  "interstitialAdUnitId": "ca-app-pub-2829769365583815/1710525737",
+  "bannerAdUnitId": "ca-app-pub-2829769365583815/4881891665",
+  "nativeAdUnitId": "ca-app-pub-2829769365583815/4750029720",
+  "rewardedInterstitialAdUnitId": "ca-app-pub-2829769365583815/7912769712",
+  "bannerAdUnit": {
+    "ios": "",
+    "android": "ca-app-pub-2829769365583815/4881891665"
+  },
+  "nativeAdUnit": {
+    "ios": "",
+    "android": "ca-app-pub-2829769365583815/4750029720"
+  },
+  "interstitialAdUnit": {
+    "ios": "",
+    "android": "ca-app-pub-2829769365583815/1710525737"
+  },
+  "rewardedAdUnit": {
+    "ios": "",
+    "android": "ca-app-pub-2829769365583815/3889966512"
+  },
+  "rewardedInterstitialAdUnit": {
+    "ios": "",
+    "android": "ca-app-pub-2829769365583815/7912769712"
+  },
+  "appOpenAdUnit": {
+    "ios": "",
+    "android": "ca-app-pub-2829769365583815/2385049827"
+  },
+  "adaptiveBannerAdUnit": {
+    "ios": "",
+    "android": ""
+  },
+  "collapsibleBannerAdUnit": {
+    "ios": "",
+    "android": ""
+  },
+  "urlAlgo": "normal",
+  "preferedBrowser": "chromeCustomTabs",
+  "dynamicLinkUrl": "https://captchaentry.page.link",
+  "shareText": "Hello 👋, Download the cool captcha entry:typing job work app {link}",
+  "androidPackageId": "typingbot.captchasolver.jobWorkOnline",
+  "iOSAppId": "",
+  "isShowCopyReviewDialog": true,
+  "showCopyReviewButton": true,
+  "sampleReviews": [
+    "Don't belive in other reviews, i'm usinng this app more than a month now. I get my cash out every 2 weeks. Thanks to this app I'm able to live my life. it just 1-2 hours work and I get enough money to enjoy",
+    "This app actually works—I received my payment within 3 days. Thanks a ton!",
+    "Great app to pass time and earn a little cash. Not fake like so many others.",
+    "I use it every day in my free time and never faced issues with payments.",
+    "Sometimes the captcha loads slowly, but overall it’s still a good app for earning.",
+    "I’ve withdrawn twice already. Definitely a legit app!",
+    "Perfect for students and unemployed folks looking for some side income.",
+    "One of the few apps that actually pays. Totally satisfied!",
+    "The captcha takes time to appear at times, but the app usually works well.",
+    "It’s real—I got paid! Just be consistent with your work.",
+    "It won’t make you rich, but it’s better than wasting time. Solid app.",
+    "Reliable app, I received my first payment on time.",
+    "Really helpful to earn small amounts during free time. Honest app.",
+    "Payments are real. Just complete the tasks daily and it pays off.",
+    "Used it for a week and successfully got my payout. No complaints so far!",
+    "Good for extra pocket money, especially for students.",
+    "Much better than other fake apps I’ve tried. This one delivers.",
+    "Earned enough for small expenses. Great timepass with benefits!",
+    "Simple to use and actually pays if you’re consistent.",
+    "Just keep using it regularly, and you'll see payments in your wallet.",
+    "Does what it promises—paying app with genuine rewards."
+  ],
+  "captchaConfigs": {
+    "number": {
+      "numberOfCaptchas": 10,
+      "pointsPerCaptcha": 1
+    },
+    "text": {
+      "numberOfCaptchas": 10,
+      "pointsPerCaptcha": 2
+    },
+    "slider": {
+      "numberOfCaptchas": 10,
+      "pointsPerCaptcha": 3
+    },
+    "puzzle": {
+      "numberOfCaptchas": 5,
+      "pointsPerCaptcha": 10
+    },
+    "copywriter": {
+      "numberOfCaptchas": 10,
+      "pointsPerCaptcha": 5
+    },
+    "mathematical": {
+      "numberOfCaptchas": 10,
+      "pointsPerCaptcha": 5
+    }
+  },
+  "bannerAdConfig": {
+    "copywriter": true,
+    "earnCoin": true,
+    "extremePuzzle": true,
+    "hardPuzzle": true,
+    "home": true,
+    "language": true,
+    "mathematical": true,
+    "mediumPuzzle": true,
+    "normalPuzzle": true,
+    "number": true,
+    "onBoarding1": true,
+    "onBoarding2": true,
+    "onBoarding3": true,
+    "onBoarding4": true,
+    "puzzle": true,
+    "slider": true,
+    "text": true,
+    "viewImage": true,
+    "withdrawFunds": true,
+    "websiteCaptcha": true,
+    "dailyReward": true,
+    "inviteFriend": true
+  },
+  "bannerAdsLayoutConfig": {
+    "onBoarding1": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "small"
+    },
+    "onBoarding2": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "small"
+    },
+    "onBoarding3": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "small"
+    },
+    "onBoarding4": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "small"
+    },
+    "copywriter": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "medium"
+    },
+    "earnCoin": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "medium"
+    },
+    "extremePuzzle": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "medium"
+    },
+    "hardPuzzle": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "medium"
+    },
+    "home": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "medium"
+    },
+    "language": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "small"
+    },
+    "mathematical": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "medium"
+    },
+    "mediumPuzzle": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "medium"
+    },
+    "normalPuzzle": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "medium"
+    },
+    "number": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "medium"
+    },
+    "puzzle": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "medium"
+    },
+    "slider": {
+      "adType": "nativeAd",
+      "layoutType": 3,
+      "size": "medium"
+    },
+    "text": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "medium"
+    },
+    "viewImage": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "medium"
+    },
+    "withdrawFunds": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "medium"
+    },
+    "websiteCaptcha": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "medium"
+    },
+    "dailyReward": {
+      "adType": "nativeAd",
+      "layoutType": 2,
+      "size": "small"
+    },
+    "inviteFriend": {
+      "adType": "nativeAd",
+      "layoutType": 2,
+      "size": "small"
+    }
+  },
+  "adsTypeConfig": {
+    "language": "none",
+    "appStateChange": "interstitial",
+    "back": "none",
+    "copywriterCaptcha": "interstitial",
+    "earnCoin": "interstitial",
+    "extremePuzzleCaptcha": "interstitial",
+    "hardPuzzleCaptcha": "interstitial",
+    "history": "interstitial",
+    "howItWorks": "none",
+    "mathematicalCaptcha": "interstitial",
+    "mediumPuzzleCaptcha": "interstitial",
+    "normalPuzzleCaptcha": "interstitial",
+    "numberCaptcha": "interstitial",
+    "pageChange": "interstitial",
+    "review": "interstitial",
+    "shareApp": "none",
+    "sliderCaptcha": "interstitial",
+    "textCaptcha": "interstitial",
+    "withdraw": "interstitial",
+    "withdrawFund": "interstitial",
+    "onBoarding": "none",
+    "onBoardingNone": "none",
+    "websiteCaptcha": "website",
+    "websiteCaptchaEnter": "interstitial",
+    "dailyReward": "rewarded"
+  },
+  "actionAdConfig": {
+    "onNext": {
+      "adType": "rewarded"
+    },
+    "appStateChange": {
+      "adType": "interstitial"
+    },
+    "back": {
+      "adType": "none"
+    },
+    "copywriterCaptcha": {
+      "adType": "interstitial"
+    },
+    "earnCoin": {
+      "adType": "interstitial"
+    },
+    "extremePuzzleCaptcha": {
+      "adType": "interstitial"
+    },
+    "hardPuzzleCaptcha": {
+      "adType": "interstitial"
+    },
+    "history": {
+      "adType": "interstitial"
+    },
+    "howItWorks": {
+      "adType": "none"
+    },
+    "language": {
+      "adType": "none"
+    },
+    "mathematicalCaptcha": {
+      "adType": "interstitial"
+    },
+    "mediumPuzzleCaptcha": {
+      "adType": "interstitial"
+    },
+    "normalPuzzleCaptcha": {
+      "adType": "interstitial"
+    },
+    "numberCaptcha": {
+      "adType": "interstitial"
+    },
+    "pageChange": {
+      "adType": "interstitial"
+    },
+    "review": {
+      "adType": "interstitial"
+    },
+    "shareApp": {
+      "adType": "none"
+    },
+    "sliderCaptcha": {
+      "adType": "interstitial"
+    },
+    "textCaptcha": {
+      "adType": "interstitial"
+    },
+    "withdraw": {
+      "adType": "interstitial"
+    },
+    "withdrawFund": {
+      "adType": "interstitial"
+    },
+    "onBoarding": {
+      "adType": "none"
+    },
+    "onBoardingNone": {
+      "adType": "none"
+    },
+    "websiteCaptcha": {
+      "adType": "website"
+    },
+    "websiteCaptchaEnter": {
+      "adType": "interstitial"
+    },
+    "dailyReward": {
+      "adType": "rewarded"
+    }
+  },
+  "dailyRewardAmounts": [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900,
+    1000,
+    1100,
+    1200,
+    1300,
+    1400,
+    1500
+  ],
+  "dailyRewardMaxDays": 30,
+  "language": {
+    "Deutsch": "de",
+    "English": "en",
+    "Espanol": "es",
+    "Francais": "fr",
+    "Hindi": "hi",
+    "Italiano": "it",
+    "Norsk": "no",
+    "Polski": "pl",
+    "Portugues": "pt",
+    "Turkce": "tr"
+  },
+  "copywritings": [
+    "Discover seamless solutions for your business needs. Whether it's web development, mobile apps, or cloud computing, we bring your ideas to life with cutting-edge technology and innovation.",
+    "Unlock the full potential of your business with a tech-driven approach. From intuitive web apps to robust mobile solutions, we craft custom software tailored to your goals and objectives.",
+    "Experience the future of technology today. We specialize in building dynamic web and mobile apps that elevate your business performance with scalable, high-performing solutions for every industry.",
+    "Transform your business with customized tech solutions. Our expert team delivers cutting-edge apps and websites that optimize operations, improve efficiency, and drive growth across all sectors.",
+    "Empower your business with innovative technology. We provide fully integrated solutions, including web and mobile apps, cloud computing, and more, ensuring success through creativity and technical excellence.",
+    "Create lasting impacts with digital solutions that matter. Whether it's a mobile app or custom web platform, we build reliable, scalable, and user-friendly solutions to help your business succeed.",
+    "Elevate your business with tailored software solutions. From stunning websites to powerful mobile apps, we combine modern technology with exceptional design to deliver results that exceed expectations.",
+    "Your business, reimagined with the power of technology. Our development team builds dynamic web and mobile apps that not only look great but work seamlessly to meet your goals with precision.",
+    "Innovate and grow with custom software solutions designed for your unique business needs. We specialize in scalable tech, from mobile apps to responsive websites, ensuring your success every step.",
+    "Streamline your operations with cutting-edge technology. From web development to mobile solutions, we offer custom software that enhances user experience, boosts performance, and drives business growth."
+  ],
+  "captchaImages": {
+    "Architech": [
+      "https://images.unsplash.com/photo-1558827752-1c41cb7241f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MXw4NjM1ODA5fHx8fHwyfHwxNzM2NDE3ODk1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1462041866295-e4af004a32ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Mnw4NjM1ODA5fHx8fHwyfHwxNzM2NDE3ODk1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1524061511843-fd43443e3cb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258M3w4NjM1ODA5fHx8fHwyfHwxNzM2NDE3ODk1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1551649081-716ed4a46706?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258NHw4NjM1ODA5fHx8fHwyfHwxNzM2NDE3ODk1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1547087185-f33cf4d1a93f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258NXw4NjM1ODA5fHx8fHwyfHwxNzM2NDE3ODk1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Nnw4NjM1ODA5fHx8fHwyfHwxNzM2NDE3ODk1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1563174378-3980c0718b50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258N3w4NjM1ODA5fHx8fHwyfHwxNzM2NDE3ODk1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1547087200-703f16b29590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258OHw4NjM1ODA5fHx8fHwyfHwxNzM2NDE3ODk1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1553969536-7abe08c6132d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258OXw4NjM1ODA5fHx8fHwyfHwxNzM2NDE3ODk1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1547333101-6bb18e609b2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTB8ODYzNTgwOXx8fHx8Mnx8MTczNjQxNzg5NXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1561997316-241383793a30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTF8ODYzNTgwOXx8fHx8Mnx8MTczNjQxNzg5NXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1543589365-3cc63c87243f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTJ8ODYzNTgwOXx8fHx8Mnx8MTczNjQxNzg5NXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1560440021-33f9b867899d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTN8ODYzNTgwOXx8fHx8Mnx8MTczNjQxNzg5NXw&ixlib=rb-4.0.3&q=80&w=1080"
+    ],
+    "Nature": [
+      "https://images.unsplash.com/photo-1587514342160-aae139aba39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MXw4ODAwMTJ8fHx8fDJ8fDE3MzY0MTczNzd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1543964198-d54e4f0e44e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Mnw4ODAwMTJ8fHx8fDJ8fDE3MzY0MTczNzd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1620674173160-675ff58ccc04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258M3w4ODAwMTJ8fHx8fDJ8fDE3MzY0MTczNzd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1591206654375-cb1b75a11e99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258NHw4ODAwMTJ8fHx8fDJ8fDE3MzY0MTczNzd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1514626760816-e21e9afa87db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258NXw4ODAwMTJ8fHx8fDJ8fDE3MzY0MTczNzd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1551991555-82816366cf3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Nnw4ODAwMTJ8fHx8fDJ8fDE3MzY0MTczNzd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1552028034-d2ffb9b298e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258N3w4ODAwMTJ8fHx8fDJ8fDE3MzY0MTczNzd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1551978429-3dbfed5cacc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258OHw4ODAwMTJ8fHx8fDJ8fDE3MzY0MTczNzd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1472718357940-bdf5a0aa0a42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258OXw4ODAwMTJ8fHx8fDJ8fDE3MzY0MTczNzd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1529171099841-94c0c0d7a49c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTB8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1505896202-4fe971e982fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTF8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1519121674122-e8613de6bc6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTJ8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1533094692971-5f4c56ec1339?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTN8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1531693120908-15a39126aa65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTR8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1528458650905-abcea1d34d36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTV8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1504348762621-9cb9e225d7b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTZ8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1500808452378-03e3cb41cc9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTd8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1436914228390-c080778dd589?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTh8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1519941459598-a1588781b56e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTl8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1520513455472-b259f1ec720a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjB8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1542351567-cd7b06dc08d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjF8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1438909082724-4546cc45e467?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjJ8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1542835602-2a7f968a1612?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjN8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1590760300748-6c5998417f62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjR8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1573108036225-9b08319ebce7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjV8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1554585343-acd99e31977b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjZ8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1523720131524-71ae6dbed986?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Mjd8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1462480803487-a2edfd796460?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Mjh8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1523620616280-d1446570380c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Mjl8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1495196787469-3dd8d50dae38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MzB8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080"
+    ],
+    "Hot-girls": [],
+    "puzzle": [
+      "https://images.pexels.com/photos/2907428/pexels-photo-2907428.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/7284760/pexels-photo-7284760.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/13003436/pexels-photo-13003436.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/12877342/pexels-photo-12877342.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/14440674/pexels-photo-14440674.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/30020390/pexels-photo-30020390/free-photo-of-cute-toddler-in-reindeer-antlers-by-christmas-tree.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/12109413/pexels-photo-12109413.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  "customAds": [
+    {
+      "title": "Play Subway Surfers Singapore!",
+      "description": "Run, dodge and surf through Singapore in this classic endless runner!",
+      "image": "https://i.ytimg.com/vi/1gC1uL6KbNg/maxresdefault.jpg",
+      "logo": "https://games.quickgamehub.com/games/Subway%20Surfers%20Singapore/logo.webp",
+      "webroute": "",
+      "action": "Play Now",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "Earn to Die",
+      "description": "Drive your car through a zombie apocalypse in this massive follow-up to the chart-topping hit Earn to Die!",
+      "image": "https://play-lh.googleusercontent.com/ChYzfeEa-cPDopW-rU6NZNmMV5y9Oh3smvrbu8kt9vXb-Q64TglSavvSqtLe5u42q5E=w526-h296-rw",
+      "logo": "https://games.quickgamehub.com/games/Earn%20to%20Die/logo.jpg",
+      "webroute": "",
+      "action": "Kill it Now",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "Cut the Rope: Time Travel",
+      "description": "Feed Om Nom candy through time in this physics puzzle adventure!",
+      "image": "https://i.ytimg.com/vi/IszCjmH3k_w/sddefault.jpg",
+      "logo": "https://games.quickgamehub.com/games/Cut%20The%20Rope/logo.jpg",
+      "webroute": "",
+      "action": "Play Now",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "Drift Hunters",
+      "description": "Master the art of drifting in this 3D racing game!",
+      "image": "https://images.crazygames.com/games/drift-hunters/cover-1656950639575.png",
+      "logo": "https://games.quickgamehub.com/games/Drift%20Hunters/logo.webp",
+      "webroute": "",
+      "action": "Drift Now",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "चलो प्यार करते हैं… अभी ही!",
+      "description": "आपका इच्छा ज़ाहिर करना उन्हें ऑन करने के लिए काफी है!",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_1.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_1.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "title": "कल रात मैंने तुम्हारे साथ बहुत हॉट सपना देखा!",
+      "description": "उन्हें सोचने दीजिए कि आखिर क्या हुआ होगा…",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_2.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_2.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "title": "सेक्सी वीडियो आपने ये वीडियो नहीं देखा तो देखलो",
+      "description": "आपके साथ जिंदगी जीने का मन करता है",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_3.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_3.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "title": "कैसे धड़कता है दिल की आवाज़ सुनाऊँ तुझको",
+      "description": "तूँ कहे तो दिल चीर के दिखाऊँ तुझको",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_4.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_4.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "title": "आपके बाहोंमे ही जीने का मन करता है",
+      "description": "तुझे अपने बाहों मे भर के चूमने को मन करता है",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_5.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_5.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "title": "कभी किसी लड़की को पटाकर तो देखो",
+      "description": "लड़की की टांगें फैला कर देखो",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_6.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_6.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "title": "उसकी याद में सारा वक़्त गुज़र जाता है",
+      "description": "खुद तो चाहता है ख़ुशी से धड़कना, उसका दिल भी धड़काना चाहता है",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_7.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_7.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "title": "तेरे साथ की मोहब्बत आज भी जिंदा है",
+      "description": "आज तेरे साथ खो जाना चाहता हु तोड़ कर सारी हदें तेरे साथ सो जाना चाहता हु.",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_8.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_8.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "title": "मेरे दिल में झांक कर देखो",
+      "description": "वोह खुद अपनी कमीज़ उतारकर बोली",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_9.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_9.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "India"
+      ]
+    },
+    {
+      "title": "दर्द उनको हुआ तो निकाल लिया मैंने",
+      "description": "डालते ही झड़ गए सब, टिका न कोई भी फूल गले में मेरे हार के",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_10.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_10.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "India"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "name": "0",
+  "defaultMiningSpeed": 60,
+  "superCoinRatePerUsdt": 20000000000,
+  "defaultMiningTime": 30,
+  "minWithdrawAmount": 0.002,
+  "moreRewardAmount": 5,
+  "dailyMaxMoreReward": 5,
+  "androidPackageId": "btc.crazygamer.mining",
+  "requiredMinimumBuildNumber": 3,
+  "recommendedMinimumBuildNumber": 4,
+  "isShowAppOpenAd": true,
+  "appOpenAdType": "google",
+  "speedLevels": [
+    30,
+    60,
+    100
+  ],
+  "timerLevels": [
+    15,
+    25,
+    45
+  ],
+  "urlConfigs": [
+    {
+      "url": "https://98-finance.fiveminutesgames.com/en/global-finance.html",
+      "weightage": 50,
+      "maxClicks": 100000
+    }
+  ],
+  "adsTypeConfig": {
+    "back": "website",
+    "pageChange": "website",
+    "bottomNav": "website",
+    "moreReward": "website",
+    "stopMining": "none",
+    "startMining": "website",
+    "withdraw": "website",
+    "notification": "none",
+    "level": "interstitial",
+    "profile": "interstitial",
+    "convertSuperCoin": "website",
+    "reward": "website",
+    "helpCenter": "interstitial",
+    "resetSuperCoin": "interstitial",
+    "upgradeMiningSpeed": "website",
+    "upgradeMiningTime": "website",
+    "addTime": "website",
+    "addTimeDialogOpen": "website",
+    "addSpeed": "interstitial",
+    "addSpeedDialogOpen": "website",
+    "upgradeMiningTimeOkay": "interstitial",
+    "inviteMember": "website",
+    "logout": "none"
+  },
+  "customAds": [
+    {
+      "title": "Everyone gets $500",
+      "description": "Everyone that visit our page that get $500",
+      "image": "https://i.ibb.co/ZRwzTZhh/58fd00d0-9fda-4350-946e-72c420058bdb.png",
+      "logo": "https://i.ibb.co/B2fg7GQf/logo.jpg",
+      "webroute": "",
+      "action": "Participate",
+      "countries": [
+        "ALL"
+      ]
+    }
+  ],
+  "appOpenAdUnitId": "/21753324030,23012985625/btc.crazygamer.mining_AppOpen",
+  "bannerAdUnitId": "/21753324030,23012985625/btc.crazygamer.mining_Banner",
+  "interstitialAdUnitId": "/21753324030,23012985625/btc.crazygamer.mining_Interstitial",
+  "nativeAdUnitId": "/21753324030,23012985625/btc.crazygamer.mining_Native",
+  "rewardedAdUnitId": "/21753324030,23012985625/btc.crazygamer.mining_Rewarded",
+  "rewardedInterstitialAdUnitId": "/21753324030,23012985625/btc.crazygamer.mining_Rewarded",
+  "bannerAdConfig": {
+    "level": false,
+    "profile": true,
+    "convertSuperCoin": true,
+    "reward": true,
+    "speed": true,
+    "withdraw": true,
+    "setting": false,
+    "helpCenter": true,
+    "home": true
+  },
+  "bannerAdsLayoutConfig": {
+    "level": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "profile": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 2
+    },
+    "convertSuperCoin": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 2
+    },
+    "reward": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "speed": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "withdraw": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "setting": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "helpCenter": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "home": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    }
+  },
+  "preferedBrowser": "chromeCustomTabs",
+  "isWithdrawEnabled": true,
+  "showAdsOnAppStateChange": false,
+  "maxAdsOnAppStateChange": 3,
+  "speedUpgradeConfigs": [
+    {
+      "id": 0,
+      "level": 1,
+      "cost": 0,
+      "value": 0
+    },
+    {
+      "id": 1,
+      "level": 2,
+      "cost": 10000,
+      "value": 200
+    },
+    {
+      "id": 2,
+      "level": 3,
+      "cost": 50000,
+      "value": 300
+    },
+    {
+      "id": 3,
+      "level": 4,
+      "cost": 100000,
+      "value": 400
+    }
+  ],
+  "timeUpgradeConfigs": [
+    {
+      "id": 0,
+      "level": 1,
+      "cost": 0,
+      "value": 0
+    },
+    {
+      "id": 1,
+      "level": 2,
+      "cost": 50000,
+      "value": 20
+    },
+    {
+      "id": 2,
+      "level": 3,
+      "cost": 120000,
+      "value": 30
+    },
+    {
+      "id": 3,
+      "level": 4,
+      "cost": 200000,
+      "value": 40
+    }
+  ],
+  "withdrawOptions": [
+    {
+      "coin": 2000,
+      "money": 5
+    },
+    {
+      "coin": 15000,
+      "money": 30
+    },
+    {
+      "coin": 20000,
+      "money": 40
+    },
+    {
+      "coin": 25000,
+      "money": 50
+    },
+    {
+      "coin": 50000,
+      "money": 100
+    }
+  ]
+}

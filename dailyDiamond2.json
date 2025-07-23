@@ -1,0 +1,936 @@
+{
+  "name": "20",
+  "buildNumber": "20",
+  "isWatchAdEnabled": true,
+  "diamondsPerClick": 60,
+  "currentClicks": 0,
+  "maxDailyClicks": 40,
+  "showRewardedAdOnWatchAds": false,
+  "watchAdsBeforeRewarded": 50,
+  "showCodeVerifyOnWatchAds": false,
+  "secretKey": "y",
+  "shareReward": 25,
+  "telegramReward": 25,
+  "freeCaptchaAttempts": 50,
+  "maxScratchReward": 5,
+  "rewardedAdCaptchaAttemptReward": 5,
+  "enableAttemptReward": true,
+  "showCopyReviewButton": true,
+  "showWithdrawInstructionButton": true,
+  "showOnboarding": false,
+  "withdrawInstructionButtonText": "Join Telegram",
+  "withdrawInstructionButtonUrl": "https://t.me/captchajobonline",
+  "app_open_ad_cooldown_minutes": 15,
+  "androidPackageId": "ff.diamonds.technodevelopers.pro",
+  "show2xButton": true,
+  "rewardMultiplier": 2.1,
+  "requiredMinimumBuildNumber": 3,
+  "recommendedMinimumBuildNumber": 3,
+  "preferedBrowser": "chromeCustomTabs",
+  "appOpenAdUnitId": "/23201071713/appOpen_capchaNexova",
+  "nativeAdUnitId": "/23201071713/Interstitial_capchaNexova",
+  "bannerAdUnitId": "/23201071713/Interstitial_capchaNexova",
+  "rewardedAdUnitId": "/23201071713/Reward_capchaNexova",
+  "interstitialAdUnitId": "/23201071713/Interstitial_capchaNexova",
+  "rewardedInterstitialAdUnitId": "/23201071713/Reward_capchaNexova",
+  "apiBaseUrl": "https://sendwithdrawemail-vigch7cg2q-uc.a.run.app",
+  "bannerAdUrl": "https://firebasestorage.googleapis.com/v0/b/captch-job-online.firebasestorage.app/o/Play-IPL-quiz%20(5).jpg?alt=media&token=110bafd3-fefc-4c0f-9bde-b20395f5913b",
+  "urlAlgo": "pro",
+  "urlConfigs": [
+    {
+      "url": "https://93-play-online.fiveminutesgames.com/best-health-insurance-plans/",
+      "weightage": 25,
+      "maxClicks": 100000
+    }
+  ],
+  "dailyRewardAmounts": [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900,
+    1000,
+    1100,
+    1200,
+    1300,
+    1400,
+    1500
+  ],
+  "dailyRewardMaxDays": 30,
+  "dynamicLinkUrl": "https://technodevelopers.page.link",
+  "cardType": [
+    "adBanner",
+    "captcha"
+  ],
+  "captchaCardType": [
+    "number",
+    "text",
+    "slider",
+    "puzzle",
+    "copywriter",
+    "mathematical",
+    "scratch"
+  ],
+  "bannerAdsLayoutConfig": {
+    "home": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "leaderboard": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "dailyReward": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "small"
+    },
+    "referral": {
+      "adType": "nativeAd",
+      "layoutType": 1,
+      "size": "small"
+    },
+    "redeem": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "withdraw": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "captchaHome": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "number": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "text": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "slider": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "puzzle": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "normalPuzzle": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "mediumPuzzle": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "hardPuzzle": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "extremePuzzle": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "copywriter": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "mathematical": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "scratch": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "onBoarding1": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 2
+    },
+    "onBoarding2": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 2
+    },
+    "onBoarding3": {
+      "adType": "nativeAd",
+      "size": "large",
+      "layoutType": 1
+    },
+    "onBoarding4": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 2
+    },
+    "onBoarding5": {
+      "adType": "nativeAd",
+      "size": "large",
+      "layoutType": 1
+    },
+    "onBoarding6": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 2
+    },
+    "hint": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "hint2": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "copywriter2": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "mathematical2": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "extremePuzzle2": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "hardPuzzle2": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "mediumPuzzle2": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "normalPuzzle2": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "puzzle2": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "number2": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "text2": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "slider2": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "scratch2": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "home2": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "dailyReward2": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "withdraw2": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "redeem2": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    }
+  },
+  "customAds": [
+    {
+      "title": "चलो प्यार करते हैं… अभी ही!",
+      "description": "आपका इच्छा ज़ाहिर करना उन्हें ऑन करने के लिए काफी है!",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_1.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_1.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "कल रात मैंने तुम्हारे साथ बहुत हॉट सपना देखा!",
+      "description": "उन्हें सोचने दीजिए कि आखिर क्या हुआ होगा…",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_2.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_2.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "सेक्सी वीडियो आपने ये वीडियो नहीं देखा तो देखलो",
+      "description": "आपके साथ जिंदगी जीने का मन करता है",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_3.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_3.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "कैसे धड़कता है दिल की आवाज़ सुनाऊँ तुझको",
+      "description": "तूँ कहे तो दिल चीर के दिखाऊँ तुझको",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_4.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_4.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "आपके बाहोंमे ही जीने का मन करता है",
+      "description": "तुझे अपने बाहों मे भर के चूमने को मन करता है",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_5.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_5.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "कभी किसी लड़की को पटाकर तो देखो",
+      "description": "लड़की की टांगें फैला कर देखो",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_6.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_6.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "उसकी याद में सारा वक़्त गुज़र जाता है",
+      "description": "खुद तो चाहता है ख़ुशी से धड़कना, उसका दिल भी धड़काना चाहता है",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_7.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_7.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "तेरे साथ की मोहब्बत आज भी जिंदा है",
+      "description": "आज तेरे साथ खो जाना चाहता हु तोड़ कर सारी हदें तेरे साथ सो जाना चाहता हु.",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_8.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_8.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "मेरे दिल में झांक कर देखो",
+      "description": "वोह खुद अपनी कमीज़ उतारकर बोली",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_9.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_9.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "दर्द उनको हुआ तो निकाल लिया मैंने",
+      "description": "डालते ही झड़ गए सब, टिका न कोई भी फूल गले में मेरे हार के",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_10.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_10.png",
+      "webroute": "",
+      "action": "देखने के लिए क्लिक करे",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "Let's Fall in Love... Right Now!",
+      "description": "Just expressing your desire is enough to turn them on!",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_1.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_1.png",
+      "webroute": "",
+      "action": "Click to Watch",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "I Had a Very Hot Dream About You Last Night!",
+      "description": "Let them wonder what might have happened...",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_2.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_2.png",
+      "webroute": "",
+      "action": "Click to Watch",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "Sexy Video You Haven't Seen Before",
+      "description": "I want to spend my life with you",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_3.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_3.png",
+      "webroute": "",
+      "action": "Click to Watch",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "Let Me Show You How My Heart Beats For You",
+      "description": "If you ask, I would tear open my heart to show you",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_4.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_4.png",
+      "webroute": "",
+      "action": "Click to Watch",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "I Want to Live in Your Arms",
+      "description": "I want to hold you in my arms and kiss you",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_5.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_5.png",
+      "webroute": "",
+      "action": "Click to Watch",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "Try Dating Someone Special",
+      "description": "Experience something extraordinary",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_6.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_6.png",
+      "webroute": "",
+      "action": "Click to Watch",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "Time Passes in Their Memory",
+      "description": "My heart wants to beat with joy, and make their heart beat too",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_7.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_7.png",
+      "webroute": "",
+      "action": "Click to Watch",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "Our Love is Still Alive",
+      "description": "I want to lose myself with you today, breaking all boundaries to be with you",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_8.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_8.png",
+      "webroute": "",
+      "action": "Click to Watch",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "Look Into My Heart",
+      "description": "She took off her shirt and said",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_9.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_9.png",
+      "webroute": "",
+      "action": "Click to Watch",
+      "countries": [
+        "ALL"
+      ]
+    },
+    {
+      "title": "I Removed Their Pain",
+      "description": "As soon as I put them on, all the flowers withered, none stayed in my garland",
+      "image": "https://raw.githubusercontent.com/ak-255/demo-images/main/native_play/native_play_10.jpg",
+      "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_10.png",
+      "webroute": "",
+      "action": "Click to Watch",
+      "countries": [
+        "ALL"
+      ]
+    }
+  ],
+  "bannerAdConfig": {
+    "home": true,
+    "leaderboard": true,
+    "dailyReward": true,
+    "referral": true,
+    "redeem": true,
+    "withdraw": true,
+    "captchaHome": true,
+    "number": true,
+    "text": true,
+    "slider": true,
+    "normalPuzzle": true,
+    "puzzle": true,
+    "mediumPuzzle": true,
+    "hardPuzzle": true,
+    "extremePuzzle": true,
+    "copywriter": true,
+    "mathematical": true,
+    "onBoarding1": true,
+    "onBoarding2": true,
+    "onBoarding3": true,
+    "onBoarding4": true,
+    "onBoarding5": true,
+    "onBoarding6": true,
+    "scratch": true,
+    "hint": false,
+    "hint2": false,
+    "copywriter2": false,
+    "mathematical2": false,
+    "extremePuzzle2": false,
+    "hardPuzzle2": false,
+    "mediumPuzzle2": false,
+    "normalPuzzle2": false,
+    "puzzle2": false,
+    "number2": false,
+    "text2": false,
+    "slider2": false,
+    "scratch2": false,
+    "home2": false,
+    "dailyReward2": false,
+    "withdraw2": false,
+    "redeem2": false
+  },
+  "adsTypeConfig": {
+    "back": "website",
+    "backNone": "website",
+    "backWebsite": "website",
+    "captcha2xReward": "rewarded",
+    "appStateChange": "website",
+    "dailyRewardClaim": "rewarded",
+    "watchAd": "website",
+    "redeem": "website",
+    "captchaHome": "website",
+    "pageChange": "website",
+    "numberCaptcha": "website",
+    "textCaptcha": "website",
+    "sliderCaptcha": "website",
+    "normalPuzzleCaptcha": "website",
+    "mediumPuzzleCaptcha": "website",
+    "hardPuzzleCaptcha": "website",
+    "extremePuzzleCaptcha": "website",
+    "copywriterCaptcha": "website",
+    "mathematicalCaptcha": "website",
+    "scratch": "website",
+    "withdraw": "website",
+    "howItWorks": "website",
+    "review": "website",
+    "shareApp": "none",
+    "joinTelegram": "none"
+  },
+  "actionAdConfig": {
+    "back": {
+      "adType": "website"
+    },
+    "backNone": {
+      "adType": "website"
+    },
+    "backWebsite": {
+      "adType": "website"
+    },
+    "captcha2xReward": {
+      "adType": "rewarded"
+    },
+    "appStateChange": {
+      "adType": "website"
+    },
+    "dailyRewardClaim": {
+      "adType": "rewarded"
+    },
+    "watchAd": {
+      "adType": "website"
+    },
+    "redeem": {
+      "adType": "website"
+    },
+    "captchaHome": {
+      "adType": "website"
+    },
+    "pageChange": {
+      "adType": "website"
+    },
+    "withdraw": {
+      "adType": "website"
+    },
+    "howItWorks": {
+      "adType": "website"
+    },
+    "review": {
+      "adType": "website"
+    },
+    "shareApp": {
+      "adType": "website"
+    },
+    "joinTelegram": {
+      "adType": "website"
+    },
+    "numberCaptcha": {
+      "adType": "website"
+    },
+    "textCaptcha": {
+      "adType": "website"
+    },
+    "sliderCaptcha": {
+      "adType": "website"
+    },
+    "normalPuzzleCaptcha": {
+      "adType": "website"
+    },
+    "mediumPuzzleCaptcha": {
+      "adType": "website"
+    },
+    "hardPuzzleCaptcha": {
+      "adType": "website"
+    },
+    "extremePuzzleCaptcha": {
+      "adType": "website"
+    },
+    "mathematicalCaptcha": {
+      "adType": "website"
+    },
+    "copywriterCaptcha": {
+      "adType": "website"
+    },
+    "scratch": {
+      "adType": "website"
+    }
+  },
+  "withdrawOptions": [
+    {
+      "amount": 2000,
+      "diamonds": 500,
+      "color": 4294940672
+    },
+    {
+      "amount": 3500,
+      "diamonds": 1000,
+      "color": 4293467747
+    },
+    {
+      "amount": 5000,
+      "diamonds": 2000,
+      "color": 4280391411
+    },
+    {
+      "amount": 7500,
+      "diamonds": 3000,
+      "color": 4288914432
+    },
+    {
+      "amount": 10000,
+      "diamonds": 4000,
+      "color": 4293467747
+    },
+    {
+      "amount": 12000,
+      "diamonds": 5000,
+      "color": 4283215696
+    }
+  ],
+  "isCaptchaEnabled": true,
+  "captchaTitle": "Earn by Completing Captchas!",
+  "captchaSubtitle": "Solve captchas and get rewarded instantly.",
+  "captchaButtonText": "Start Earning",
+  "ratingReward": 100,
+  "sampleReviews": [
+    "I got 300 diamonds, so happy!",
+    "muito bom, saquei 200 Dimas ontem",
+    "increíble, mis diamantes llegaron hoy!",
+    "this app so cool, dimonds are real!!",
+    "ganhei Dimas rápido, app ótimo!",
+    "100% funciona, já saquei meus dimonds",
+    "app works!! got my diamonds wow",
+    "diamantes reales, no pensé que fuera verdad",
+    "muito bom, recomendo pra todo mundo",
+    "I luv this app, dimonds fast and real!",
+    "los diamantes llegaron rápido, mejor app",
+    "it's real, I got 500 diamonds in 2 days",
+    "funciona mesmo, recebi os Dimas rapidinho",
+    "this app is the best, dimonds came so quick",
+    "app confiável, saquei sem problemas",
+    "lo mejor, saqué diamantes súper rápido",
+    "dimonds work, amazing app!",
+    "nunca vi um app assim, muito bom mesmo",
+    "recibí 300 diamantes, súper feliz ahora!",
+    "dimonds came true, can't believe it",
+    "ótimo, saquei ontem e já recebi hoje",
+    "diamantes garantizados, 100% confiable",
+    "dimonds came!!! try this app now",
+    "increíble, fácil de usar y funciona de verdad",
+    "simplesmente amei, já ganhei meus Dimas",
+    "the app works real, dimonds came easy",
+    "excelente app para sacar diamantes rápido",
+    "real diamonds, love this app so much",
+    "ganhei 100 Dimas em um dia, perfeito!",
+    "funciona mesmo, é só baixar e usar",
+    "los diamantes son reales, mejor app de todas",
+    "dimonds real, I luv this app guys",
+    "baixe agora, funciona super bem!",
+    "mis diamantes llegaron, no lo puedo creer!",
+    "app easy and fast, dimonds came today",
+    "me encanta, ya tengo mis diamantes",
+    "tão fácil, saquei meus Dimas rapidinho",
+    "dimonds are real, app works perfectly",
+    "nunca pensei que fosse verdade, mas é!",
+    "muy buena app, los diamantes son reales",
+    "dimonds quick, love this so much",
+    "amazing, saquei e recebi em 2 dias",
+    "perfect app for dimonds, no joke",
+    "dimonds chegou rápido, muito top",
+    "I use this app all time, dimonds real",
+    "realmente funciona, já saquei duas vezes",
+    "dimonds so cool, try this app now",
+    "me llegó rápido, mis diamantes son reales",
+    "melhor app pra ganhar Dimas, recomendo",
+    "dimonds came quick, I’m happy!!"
+  ],
+  "shareText": "🎮 Join me on Emotes Viewer!\nEarn exciting rewards and diamonds daily! 💎 {link}",
+  "showHowItWorksEveryTime": false,
+  "showAdWhenCloseHowItWorks": true,
+  "isWithdrawEnabled": true,
+  "withdrawTitle": "Withdraw Diamonds",
+  "withdrawSubtitle": "Exchange your earned diamonds for\nFree Fire rewards quickly and securely!",
+  "captchaConfigs": {
+    "number": {
+      "numberOfCaptchas": 2,
+      "pointsPerCaptcha": 30
+    },
+    "text": {
+      "numberOfCaptchas": 2,
+      "pointsPerCaptcha": 60
+    },
+    "slider": {
+      "numberOfCaptchas": 3,
+      "pointsPerCaptcha": 60
+    },
+    "puzzle": {
+      "numberOfCaptchas": 4,
+      "pointsPerCaptcha": 100
+    },
+    "copywriter": {
+      "numberOfCaptchas": 2,
+      "pointsPerCaptcha": 100
+    },
+    "mathematical": {
+      "numberOfCaptchas": 2,
+      "pointsPerCaptcha": 100
+    }
+  },
+  "copywritings": [
+    "Every struggle is a step forward. You're not stuck, you're gathering the strength to leap.",
+    "Wealth is not just about having money, but also about the perseverance to create it. Keep going your story is still being written.",
+    "Hard times bend you but don't let them break you. The world rewards those who refuse to give up.",
+    "Don't let a temporary season define your entire journey. Seasons change, and so will your circumstances.",
+    "The bamboo that bends is stronger than the oak that resists. Flexibility and resilience will carry you through.",
+    "You have been assigned this mountain to show others it can be moved. Keep climbing.",
+    "Success is not built on success it's built on failure, persistence, and grit. Keep showing up.",
+    "Small steps still move you forward. Celebrate progress, not perfection.",
+    "The gem cannot be polished without friction, nor the person perfected without trials.",
+    "It's not how much money you make, but how much you grow through the process of earning it.",
+    "When you feel like giving up, remember why you started. Your why is stronger than any how.",
+    "The only way to earn abundance is to believe it's possible. Your mindset is your greatest currency.",
+    "Tough times don't last, but tough people do. You're stronger than you think.",
+    "Seeds grow in darkness before they bloom in light. Trust the process.",
+    "You don't have to see the whole staircase just take the first step. Momentum builds miracles."
+  ],
+  "captchaImages": {
+    "Architech": [
+      "https://images.unsplash.com/photo-1558827752-1c41cb7241f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MXw4NjM1ODA5fHx8fHwyfHwxNzM2NDE3ODk1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1462041866295-e4af004a32ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Mnw4NjM1ODA5fHx8fHwyfHwxNzM2NDE3ODk1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1524061511843-fd43443e3cb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258M3w4NjM1ODA5fHx8fHwyfHwxNzM2NDE3ODk1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1551649081-716ed4a46706?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258NHw4NjM1ODA5fHx8fHwyfHwxNzM2NDE3ODk1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1547087185-f33cf4d1a93f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258NXw4NjM1ODA5fHx8fHwyfHwxNzM2NDE3ODk1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Nnw4NjM1ODA5fHx8fHwyfHwxNzM2NDE3ODk1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1563174378-3980c0718b50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258N3w4NjM1ODA5fHx8fHwyfHwxNzM2NDE3ODk1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1547087200-703f16b29590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258OHw4NjM1ODA5fHx8fHwyfHwxNzM2NDE3ODk1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1553969536-7abe08c6132d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258OXw4NjM1ODA5fHx8fHwyfHwxNzM2NDE3ODk1fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1547333101-6bb18e609b2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTB8ODYzNTgwOXx8fHx8Mnx8MTczNjQxNzg5NXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1561997316-241383793a30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTF8ODYzNTgwOXx8fHx8Mnx8MTczNjQxNzg5NXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1543589365-3cc63c87243f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTJ8ODYzNTgwOXx8fHx8Mnx8MTczNjQxNzg5NXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1560440021-33f9b867899d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTN8ODYzNTgwOXx8fHx8Mnx8MTczNjQxNzg5NXw&ixlib=rb-4.0.3&q=80&w=1080"
+    ],
+    "Nature": [
+      "https://images.unsplash.com/photo-1587514342160-aae139aba39d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MXw4ODAwMTJ8fHx8fDJ8fDE3MzY0MTczNzd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1543964198-d54e4f0e44e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Mnw4ODAwMTJ8fHx8fDJ8fDE3MzY0MTczNzd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1620674173160-675ff58ccc04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258M3w4ODAwMTJ8fHx8fDJ8fDE3MzY0MTczNzd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1591206654375-cb1b75a11e99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258NHw4ODAwMTJ8fHx8fDJ8fDE3MzY0MTczNzd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1514626760816-e21e9afa87db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258NXw4ODAwMTJ8fHx8fDJ8fDE3MzY0MTczNzd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1551991555-82816366cf3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Nnw4ODAwMTJ8fHx8fDJ8fDE3MzY0MTczNzd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1552028034-d2ffb9b298e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258N3w4ODAwMTJ8fHx8fDJ8fDE3MzY0MTczNzd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1551978429-3dbfed5cacc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258OHw4ODAwMTJ8fHx8fDJ8fDE3MzY0MTczNzd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1472718357940-bdf5a0aa0a42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258OXw4ODAwMTJ8fHx8fDJ8fDE3MzY0MTczNzd8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1529171099841-94c0c0d7a49c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTB8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1505896202-4fe971e982fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTF8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1519121674122-e8613de6bc6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTJ8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1533094692971-5f4c56ec1339?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTN8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1531693120908-15a39126aa65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTR8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1528458650905-abcea1d34d36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTV8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1504348762621-9cb9e225d7b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTZ8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1500808452378-03e3cb41cc9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTd8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1436914228390-c080778dd589?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTh8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1519941459598-a1588781b56e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTl8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1520513455472-b259f1ec720a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjB8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1542351567-cd7b06dc08d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjF8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1438909082724-4546cc45e467?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjJ8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1542835602-2a7f968a1612?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjN8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1590760300748-6c5998417f62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjR8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1573108036225-9b08319ebce7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjV8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1554585343-acd99e31977b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjZ8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1523720131524-71ae6dbed986?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Mjd8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1462480803487-a2edfd796460?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Mjh8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1523620616280-d1446570380c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Mjl8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1495196787469-3dd8d50dae38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MzB8ODgwMDEyfHx8fHwyfHwxNzM2NDE3Mzc3fA&ixlib=rb-4.0.3&q=80&w=1080"
+    ],
+    "Hot-girls": [
+      "https://images.unsplash.com/photo-1525823546620-34df09ce2319?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MXxTbjFTN0ZMeTZLVXx8fHx8Mnx8MTczNjQxNzMzNXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/flagged/photo-1554033842-e365ef463d82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MnxTbjFTN0ZMeTZLVXx8fHx8Mnx8MTczNjQxNzMzNXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1594590438588-aadc19454cb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258M3xTbjFTN0ZMeTZLVXx8fHx8Mnx8MTczNjQxNzMzNXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1660648127308-5cd86385dd7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258NHxTbjFTN0ZMeTZLVXx8fHx8Mnx8MTczNjQxNzMzNXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1660745752354-e864468aeed2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258NXxTbjFTN0ZMeTZLVXx8fHx8Mnx8MTczNjQxNzMzNXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1660598772028-8f58e8e79e52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258NnxTbjFTN0ZMeTZLVXx8fHx8Mnx8MTczNjQxNzMzNXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1660633833226-2dff52adca8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258N3xTbjFTN0ZMeTZLVXx8fHx8Mnx8MTczNjQxNzMzNXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1660658697408-8641b1f9ac44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258OHxTbjFTN0ZMeTZLVXx8fHx8Mnx8MTczNjQxNzMzNXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1619221981421-23ce77a8afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258OXxTbjFTN0ZMeTZLVXx8fHx8Mnx8MTczNjQxNzMzNXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1576526983304-b08682e9dd43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTB8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1568819317551-31051b37f69f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTF8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/flagged/photo-1568648676387-bdb490d94017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTJ8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1566226751542-a32977fdb3f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTN8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1575553940260-631fe4817fcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTR8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1578822043018-0fd3a0293a5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTV8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1573581043086-03ff56754b22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTZ8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1525672281911-6d4c325414f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTd8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1482965817099-53593150db45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTh8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1557244056-ac3033d17d9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTl8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1518676371439-36493cc89636?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjB8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1531345802813-520a6c892aef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjF8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1529113197170-41b8075ba239?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjJ8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1546856710-3c942c01e23f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjN8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1579006415735-7b1277e6ab26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjR8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1614484848556-6e1ac7d8f014?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjV8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1585600433726-f8480c012b48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjZ8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/flagged/photo-1556151994-b611e5ab3675?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Mjd8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1575186083127-03641b958f61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Mjh8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1592960362714-0e753879ace5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Mjl8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1585250047476-e672d7882cbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MzB8U24xUzdGTHk2S1V8fHx8fDJ8fDE3MzY0MTczMzV8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1651066377565-f99cf3c3a329?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MXxUc3RPSkE4aHdISXx8fHx8Mnx8MTczNjQxNzE5OXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1607187517174-1aa8ff91d93c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MnxUc3RPSkE4aHdISXx8fHx8Mnx8MTczNjQxNzE5OXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1540365118882-946449a2ce17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258M3xUc3RPSkE4aHdISXx8fHx8Mnx8MTczNjQxNzE5OXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1492632503949-a31d9972b400?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258NHxUc3RPSkE4aHdISXx8fHx8Mnx8MTczNjQxNzE5OXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1526404746352-668ded9b50ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258NXxUc3RPSkE4aHdISXx8fHx8Mnx8MTczNjQxNzE5OXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1543421277-793262a4ccea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258NnxUc3RPSkE4aHdISXx8fHx8Mnx8MTczNjQxNzE5OXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1543421220-4da37a3b4c42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258N3xUc3RPSkE4aHdISXx8fHx8Mnx8MTczNjQxNzE5OXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1543421244-ffdc2c87515b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258OHxUc3RPSkE4aHdISXx8fHx8Mnx8MTczNjQxNzE5OXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1467632499275-7a693a761056?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258OXxUc3RPSkE4aHdISXx8fHx8Mnx8MTczNjQxNzE5OXw&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1609655164990-b4228ee4c959?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTB8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1591901814258-1f7cab4e956e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTF8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1634587043333-7b24adefa17d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTJ8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1594172997559-0d20171790e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTN8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1630041605069-7b7f788747db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTR8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1630041605069-d11b46d19782?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTV8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1566816803172-5ee6833609cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTZ8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1515031245064-22453e134337?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTd8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1626888785308-904230af213c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTh8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1642939882783-a7d72b410306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTl8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1658389527029-2f65652017b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjB8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1639146809088-c3a696592ca0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjF8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1565995399787-319939c79d3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjJ8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1646335938342-56a6c4cb1d45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjN8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1611699082439-a8de44ba565f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjR8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1580486507512-deda82970c10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjV8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1612367939117-84bc4cd00c48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjZ8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1612659513025-fe37f67574d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Mjd8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1613133485651-c53192500691?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Mjh8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1613317898586-a5f478937f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Mjl8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1605248259586-a64eb06b6970?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MzB8VHN0T0pBOGh3SEl8fHx8fDJ8fDE3MzY0MTcxOTl8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1482965817099-53593150db45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MXx6ekhOeUcwSXozNHx8fHx8Mnx8MTczNjQxODI4M3w&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1625856198862-87d5b7d0bf47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Mnx6ekhOeUcwSXozNHx8fHx8Mnx8MTczNjQxODI4M3w&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1460567324557-e44dfbb3220b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258M3x6ekhOeUcwSXozNHx8fHx8Mnx8MTczNjQxODI4M3w&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1496667027335-ab5297dc6ec4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258NHx6ekhOeUcwSXozNHx8fHx8Mnx8MTczNjQxODI4M3w&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1520267819959-5fe7025b9aa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258NXx6ekhOeUcwSXozNHx8fHx8Mnx8MTczNjQxODI4M3w&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1587230969143-b830cd7df113?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258Nnx6ekhOeUcwSXozNHx8fHx8Mnx8MTczNjQxODI4M3w&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1587231089409-694da8333b2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258N3x6ekhOeUcwSXozNHx8fHx8Mnx8MTczNjQxODI4M3w&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1587232389383-66881e830062?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258OHx6ekhOeUcwSXozNHx8fHx8Mnx8MTczNjQxODI4M3w&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1587251411302-2fdd019930ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258OXx6ekhOeUcwSXozNHx8fHx8Mnx8MTczNjQxODI4M3w&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1587251207359-810f99708d9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTB8enpITnlHMEl6MzR8fHx8fDJ8fDE3MzY0MTgyODN8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1587237339971-8985ebaf7358?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTF8enpITnlHMEl6MzR8fHx8fDJ8fDE3MzY0MTgyODN8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1597020976626-04261b0fac2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTJ8enpITnlHMEl6MzR8fHx8fDJ8fDE3MzY0MTgyODN8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1507138170390-6625c5fd0115?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTN8enpITnlHMEl6MzR8fHx8fDJ8fDE3MzY0MTgyODN8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1590610831759-0fca59c21a23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTR8enpITnlHMEl6MzR8fHx8fDJ8fDE3MzY0MTgyODN8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1618930865967-89e34d7bb383?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTV8enpITnlHMEl6MzR8fHx8fDJ8fDE3MzY0MTgyODN8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1533692583337-1e0d70803243?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTZ8enpITnlHMEl6MzR8fHx8fDJ8fDE3MzY0MTgyODN8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1657682041050-22d8b1af9970?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTd8enpITnlHMEl6MzR8fHx8fDJ8fDE3MzY0MTgyODN8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1522991021352-013dd743aa73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTh8enpITnlHMEl6MzR8fHx8fDJ8fDE3MzY0MTgyODN8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1522990776162-b5fa7acb4b79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MTl8enpITnlHMEl6MzR8fHx8fDJ8fDE3MzY0MTgyODN8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1525672531562-6a0928e26d28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjB8enpITnlHMEl6MzR8fHx8fDJ8fDE3MzY0MTgyODN8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1579068310805-338fa88c42ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjF8enpITnlHMEl6MzR8fHx8fDJ8fDE3MzY0MTgyODN8&ixlib=rb-4.0.3&q=80&w=1080",
+      "https://images.unsplash.com/photo-1579006318110-42d7992b6635?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODI2NDh8MHwxfGNvbGxlY3Rpb258MjJ8enpITnlHMEl6MzR8fHx8fDJ8fDE3MzY0MTgyODN8&ixlib=rb-4.0.3&q=80&w=1080"
+    ],
+    "puzzle": [
+      "https://th.bing.com/th/id/OIG3.80EN2JPNx7kp5VqoB5kz",
+      "https://thumbs.dreamstime.com/b/eiffel-carousel-tower-31095711.jpg",
+      "https://images.pexels.com/photos/2907428/pexels-photo-2907428.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/7284760/pexels-photo-7284760.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/13003436/pexels-photo-13003436.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/12877342/pexels-photo-12877342.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/14440674/pexels-photo-14440674.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/30020390/pexels-photo-30020390/free-photo-of-cute-toddler-in-reindeer-antlers-by-christmas-tree.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/12109413/pexels-photo-12109413.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "id": "1",
+  "name": "0",
+  "buildNumber": "2",
+  "isOpenWebInRewardedAd": false,
+  "isOpenWebInInterstitialAd": true,
+  "isShowAppOpenAd": true,
+  "appOpenAdType": "customAd",
+  "secretKey": "y",
+  "urlAlgo": "pro",
+  "androidPackageId": "com.example.nexowa_core",
+  "requiredMinimumBuildNumber": 1,
+  "recommendedMinimumBuildNumber": 5,
+  "dynamicLinkUrl": "https://nexowaexample.page.link",
+  "customAds": [
+    {
+      "title": "Boost Your Career",
+      "description": "Learn in-demand skills with our online courses.",
+      "image": "https://t3.ftcdn.net/jpg/02/55/22/68/360_F_255226859_Rhqr5hflr2esVXHQE1sS1bWxmZxs0gWI.jpg",
+      "logo": "https://img.freepik.com/premium-vector/education-logo-vector_1072857-11370.jpg",
+      "webroute": "case-studies",
+      "action": "Enroll Now",
+      "countries": [
+        "ALL"
+      ]
+    }
+  ],
+  "shareText": "this is test share {link}",
+  "dailyRewardMaxDays": 30,
+  "preferedBrowser": "chromeCustomTabs",
+  "dailyRewardAmounts": [
+    10,
+    20,
+    30
+  ],
+  "adsConfig": {
+    "onNext": "website"
+  },
+  "urlConfigs": [
+    {
+      "url": "https://nexowa.com/",
+      "weightage": 50,
+      "maxClicks": 500
+    }
+  ],
+  "adsNetwork": [
+    {
+      "priority": 1,
+      "name": "google",
+      "bannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
+      "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
+      "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
+      "nativeAdUnitId": "ca-app-pub-3940256099942544/2247696110",
+      "appOpenAdUnitId": "ca-app-pub-3940256099942544/9257395921"
+    },
+    {
+      "priority": 2,
+      "name": "facebook",
+      "bannerAdUnitId": "3974078972862037_3975395552730379",
+      "bannerMediumAdUnitId": "3974078972862037_3976434542626480",
+      "interstitialAdUnitId": "3974078972862037_3974079646195303",
+      "rewardedAdUnitId": "3974078972862037_3974089326194335",
+      "nativeAdUnitId": "3974078972862037_3977928812477053",
+      "nativeMediumAdUnitId": "3974078972862037_3974089762860958"
+    },
+    {
+      "priority": 3,
+      "name": "unity",
+      "bannerAdUnitId": "Banner_Android",
+      "interstitialAdUnitId": "Interstitial_Android",
+      "rewardedAdUnitId": "Rewarded_Android"
+    },
+    {
+      "priority": 4,
+      "name": "nexowaAd",
+      "bannerAdUnitId": "Nexowa_Banner",
+      "interstitialAdUnitId": "Nexowa_Interstitial",
+      "rewardedAdUnitId": "Nexowa_Rewarded",
+      "nativeAdUnitId": "Nexowa_Native"
+    }
+  ],
+  "actionAdConfig": {
+    "onNext": {
+      "adType": "rewarded"
+    },
+    "onNext2": {
+      "adType": "Interstitial"
+    },
+    "onPrevious": {
+      "adType": "rewarded"
+    },
+    "onClose": {
+      "adType": "rewardedInterstitial"
+    },
+    "onShare": {
+      "adType": "website"
+    },
+    "onCopy": {
+      "adType": "website",
+      "route": "services"
+    },
+    "onPaste": {
+      "adType": "website"
+    },
+    "onCut": {
+      "adType": "website"
+    },
+    "staticUrl": {
+      "adType": "website"
+    },
+    "onAd": {
+      "adType": "website"
+    }
+  },
+  "bannerAdsLayoutConfig": {
+    "nativeMediumAd1": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1,
+      "isVisible": true
+    },
+    "nativeMediumAd2": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 2,
+      "isVisible": true
+    },
+    "nativeMediumAd3": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 3,
+      "isVisible": true
+    },
+    "nativeStaticMediumAd4": {
+      "adType": "customAd",
+      "size": "medium",
+      "layoutType": 3,
+      "isVisible": true
+    },
+    "nativeSmallAd1": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1,
+      "isVisible": true
+    },
+    "nativeSmallAd2": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2,
+      "isVisible": true
+    },
+    "nativeSmallAd3": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 3,
+      "isVisible": true
+    },
+    "nativeStaticSmallAd4": {
+      "adType": "customAd",
+      "size": "small",
+      "layoutType": 3,
+      "isVisible": true
+    },
+    "nativeSquareAd": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 4,
+      "isVisible": true
+    },
+    "MixAdsTestingScreen": {
+      "adType": "bannerAd",
+      "size": "small",
+      "layoutType": 1,
+      "isVisible": true
+    },
+    "nativeFullScreenAd": {
+      "adType": "nativeAd",
+      "size": "large",
+      "layoutType": 2,
+      "isVisible": true
+    },
+    "nativeStaticFullScreenAd": {
+      "adType": "customAd",
+      "size": "large",
+      "layoutType": 3,
+      "isVisible": true
+    },
+    "nativeTestingScreen1": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1,
+      "isVisible": true
+    },
+    "nativeTestingScreen2": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1,
+      "isVisible": true
+    },
+    "nativeTestingScreen3": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2,
+      "isVisible": true
+    },
+    "nativeTestingScreen4": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 3,
+      "isVisible": true
+    },
+    "bannerTestingScreen1": {
+      "adType": "bannerAd",
+      "size": "small",
+      "layoutType": 1,
+      "isVisible": true
+    },
+    "bannerTestingScreen2": {
+      "adType": "bannerAd",
+      "size": "medium",
+      "layoutType": 1,
+      "isVisible": true
+    },
+    "bannerTestingScreen3": {
+      "adType": "bannerAd",
+      "size": "large",
+      "layoutType": 1,
+      "isVisible": true
+    },
+    "collapsibleAdScreen": {
+      "adType": "bannerAd",
+      "size": "collapsible",
+      "layoutType": 1,
+      "isVisible": true
+    },
+    "adaptiveBannerAdScreen": {
+      "adType": "bannerAd",
+      "size": "adaptive",
+      "layoutType": 1,
+      "isVisible": true
+    },
+    "nativeTestAd": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2,
+      "isVisible": true
+    }
+  }
+}
