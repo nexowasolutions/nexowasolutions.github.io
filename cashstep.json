@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "Organic",
-    "buildNumber": "8",
+    "buildNumber": 9,
     "requiredMinimumBuildNumber": 6,
     "recommendedMinimumBuildNumber": 6,
     "appBundleId": "cashStep.walk.earnRewards",
