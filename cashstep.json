@@ -25,7 +25,7 @@
       "collapsibleBanner": "ca-app-pub-3940256099942544/2014213617"
     },
     "isShowAppOpenAd": true,
-    "appOpenAd": "google",
+    "appOpenAd": "none",
     "openWebInAd": [
       "rewarded",
       "interstitial"
