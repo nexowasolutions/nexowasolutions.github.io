@@ -1,0 +1,526 @@
+{
+  "name": "10",
+  "privacyPolicyUrl": "https://www.freeprivacypolicy.com/live/9c434d91-1d81-4908-b4b3-43e3cfd8b406",
+  "bannerAdUnitId": "/23201071713/display_emi_1",
+  "interstitialAdUnitId": "/23201071713/interstial_emi_1",
+  "rewardedAdUnitId": "/23201071713/reward_emi_1",
+  "appOpenAdUnitId": "/23201071713/appOpen_emi_1",
+  "nativeAdUnitId": "/23201071713/display_emi_1",
+  "rewardedInterstitialAdUnitId": "/23201071713/reward_emi_1",
+  "dynamicLinkUrl": "https://finance1.page.link",
+  "shareText": "Hello 👋, Download the cool Finance app {link}",
+  "androidPackageId": "com.technodevelopers.emicalculator",
+  "iOSAppId": "",
+  "preferedBrowser": "chromeCustomTabs",
+  "customAds": [
+    {
+      "title": "Travel Like Never Before",
+      "description": "Get exclusive travel deals and discounts.",
+      "image": "https://t4.ftcdn.net/jpg/00/65/48/25/360_F_65482539_C0ZozE5gUjCafz7Xq98WB4dW6LAhqKfs.jpg",
+      "logo": "https://img.freepik.com/premium-vector/travel-logo-design_584524-209.jpg",
+      "webroute": "",
+      "action": "Book Now",
+      "countries": [
+        "India",
+        "ALL"
+      ]
+    },
+    {
+      "title": "Stay Fit and Healthy",
+      "description": "Join our fitness programs and get personalized training.",
+      "image": "https://images.everydayhealth.com/images/healthy-living/fitness/everything-you-need-know-about-fitness-1440x810.jpg",
+      "logo": "https://cdn.logojoy.com/wp-content/uploads/2018/05/04120110/8_big37.png",
+      "webroute": "",
+      "action": "Join Now",
+      "countries": [
+        "ALL"
+      ]
+    }
+  ],
+  "bannerAdConfig": {
+    "languagePage": true,
+    "onboardingPage1": true,
+    "onboardingPage2": true,
+    "onboardingPage3": true,
+    "onboardingPage4": true,
+    "onboardingPage5": true,
+    "currencyPage": true,
+    "homePage": true,
+    "aiAssitantPage": true,
+    "suggestionPage": true,
+    "basicDetailPage": true,
+    "personalLoanPage": true,
+    "personalLoanPlanPage": true,
+    "personalLoanDetailsPage": true,
+    "mortgageLoanPage": true,
+    "mortgageLoanPlanPage": true,
+    "carLoanPage": true,
+    "carLoanPlanPage": true,
+    "businessLoanPage": true,
+    "businessLoanPlanPage": true,
+    "fixedDepositPage": true,
+    "fixedDepositPlanPage": true,
+    "recurringDepositPage": true,
+    "recurringDepositPlanPage": true,
+    "sipCalculatorPage": true,
+    "sipPlanPage": true,
+    "simpleInterestPage": true,
+    "simpleInterestPlanPage": true,
+    "publicProvidentPage": true,
+    "publicProvidentPlanPage": true,
+    "postOfficePage": true,
+    "postOfficePlanPage": true,
+    "toolsPage": true,
+    "currencyExchangePage": true,
+    "timezoneExchangePage": true,
+    "gstCalculatorPage": true,
+    "vatCalculatorPage": true,
+    "inflationCalculatorPage": true,
+    "discountCalculatorPage": true,
+    "percentageCalculatorPage": true,
+    "percentageDifferencePage": true,
+    "percentageChangePage": true,
+    "historyPage": true,
+    "historyDetailPage": true,
+    "fixedDepositResultPage": true,
+    "recurringDepositResultPage": true,
+    "settingPage": true
+  },
+  "bannerAdsLayoutConfig": {
+    "languagePage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 2
+    },
+    "onboardingPage1": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 2
+    },
+    "onboardingPage2": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 2
+    },
+    "onboardingPage3": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 2
+    },
+    "onboardingPage4": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 2
+    },
+    "onboardingPage5": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 2
+    },
+    "currencyPage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 2
+    },
+    "homePage": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "aiAssitantPage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "suggestionPage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "basicDetailPage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "personalLoanPage": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "personalLoanPlanPage": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "personalLoanDetailsPage": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "mortgageLoanPage": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "mortgageLoanPlanPage": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "carLoanPage": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "carLoanPlanPage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "businessLoanPage": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "businessLoanPlanPage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "fixedDepositPage": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "fixedDepositPlanPage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "recurringDepositPage": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "recurringDepositPlanPage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "sipCalculatorPage": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "sipPlanPage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "simpleInterestPage": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "simpleInterestPlanPage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "publicProvidentPage": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "publicProvidentPlanPage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "postOfficePage": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "postOfficePlanPage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "toolsPage": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "currencyExchangePage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "timezoneExchangePage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "gstCalculatorPage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "vatCalculatorPage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "inflationCalculatorPage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "discountCalculatorPage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "percentageCalculatorPage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "percentageDifferencePage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "percentageChangePage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "historyPage": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 2
+    },
+    "historyDetailPage": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    },
+    "fixedDepositResultPage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "recurringDepositResultPage": {
+      "adType": "nativeAd",
+      "size": "medium",
+      "layoutType": 1
+    },
+    "settingPage": {
+      "adType": "nativeAd",
+      "size": "small",
+      "layoutType": 1
+    }
+  },
+  "adsTypeConfig": {
+    "onNext": "interstitial",
+    "onNextWebsite": "interstitial",
+    "onNextNone": "interstitial",
+    "onBack": "interstitial",
+    "onBackWebsite": "interstitial",
+    "onHistory": "interstitial",
+    "onHistoryWebsite": "interstitial",
+    "personalLoan": "interstitial",
+    "mortgageLoan": "interstitial",
+    "carLoan": "interstitial",
+    "businessLoan": "interstitial",
+    "fixDeposit": "interstitial",
+    "recurringDeposit": "interstitial",
+    "sipCalculator": "interstitial",
+    "simpleInterest": "interstitial",
+    "publicProvident": "interstitial",
+    "postOfficeMIS": "interstitial",
+    "currencyExchange": "interstitial",
+    "timezoneExchange": "interstitial",
+    "gstCalculator": "interstitial",
+    "vatCalculator": "interstitial",
+    "inflationCalculator": "interstitial",
+    "discountCalculator": "interstitial",
+    "percentageCalculator": "interstitial",
+    "percentageDifferenceCalculator": "interstitial",
+    "percentageChangeCalculator": "interstitial",
+    "basicDetails": "interstitial",
+    "aiChat": "interstitial",
+    "calculateMortageLoan": "interstitial",
+    "selectedLanguage": "interstitial",
+    "historyDetails": "interstitial",
+    "aiChatBottomSheet": "interstitial",
+    "aiChatMsg": "interstitial",
+    "suggestionBottomSheet": "interstitial",
+    "suggestionItems": "interstitial",
+    "basicDetailsLoanPurpose": "interstitial",
+    "basicDetailsEmploymentStatus": "interstitial",
+    "calculateBusinessLoan": "interstitial",
+    "calculateCarLoan": "interstitial",
+    "calculateFixDeposite": "interstitial",
+    "calculatePersonalLoan": "interstitial",
+    "personalLoanDeails": "interstitial",
+    "calculatePublicPF": "interstitial",
+    "calculateRecurringDeposite": "interstitial",
+    "review": "interstitial",
+    "share": "interstitial",
+    "calculateSimpleInterest": "interstitial",
+    "calculateSIP": "interstitial",
+    "calculateCurrency": "interstitial",
+    "calculateDiscount": "interstitial",
+    "calculateGST": "interstitial",
+    "calculateInflation": "interstitial",
+    "calculatePercentage": "interstitial",
+    "calculatePercentageChange": "interstitial",
+    "calculatePercentageDifference": "interstitial",
+    "convertTimezone": "interstitial",
+    "calculateVAT": "interstitial"
+  },
+  "languageList": [
+    {
+      "language_code": "en",
+      "language_name": "English",
+      "flag_url": "assets/images/UK.png"
+    },
+    {
+      "language_code": "hi",
+      "language_name": "Hindi",
+      "flag_url": "assets/images/INDIA.png"
+    },
+    {
+      "language_code": "es",
+      "language_name": "Espanola",
+      "flag_url": "assets/images/SPANISH.png"
+    },
+    {
+      "language_code": "pt-br",
+      "language_name": "Portugues Brasileiro",
+      "flag_url": "assets/images/BRAZIL.png"
+    },
+    {
+      "language_code": "ru",
+      "language_name": "Russian",
+      "flag_url": "assets/countries/ru.png"
+    }
+  ],
+  "currencyUnits": [
+    {
+      "imgPath": "assets/images/USA.png",
+      "currencyCode": "USD",
+      "currencyName": "United States Dollar",
+      "currencySymbol": "$"
+    },
+    {
+      "imgPath": "assets/images/INDIA.png",
+      "currencyCode": "INR",
+      "currencyName": "Indian Rupee",
+      "currencySymbol": "₹"
+    },
+    {
+      "imgPath": "assets/images/NIGERIA.png",
+      "currencyCode": "NGN",
+      "currencyName": "Nigerian Naira",
+      "currencySymbol": "₦"
+    },
+    {
+      "imgPath": "assets/images/PAKISTAN.png",
+      "currencyCode": "PKR",
+      "currencyName": "Pakistani Rupee",
+      "currencySymbol": "₨"
+    },
+    {
+      "imgPath": "assets/images/THAILAND.png",
+      "currencyCode": "THB",
+      "currencyName": "Thai Baht",
+      "currencySymbol": "฿"
+    },
+    {
+      "imgPath": "assets/images/UAE.png",
+      "currencyCode": "AED",
+      "currencyName": "Emirates Dirham",
+      "currencySymbol": "د.إ"
+    },
+    {
+      "imgPath": "assets/images/PHILIPPINE.png",
+      "currencyCode": "PHP",
+      "currencyName": "Philippine Peso",
+      "currencySymbol": "₱"
+    },
+    {
+      "imgPath": "assets/images/KENYA.png",
+      "currencyCode": "KES",
+      "currencyName": "Kenyan Shilling",
+      "currencySymbol": "₴"
+    },
+    {
+      "imgPath": "assets/images/SAUDI_ARABIA.png",
+      "currencyCode": "SAR",
+      "currencyName": "Saudi Riyal",
+      "currencySymbol": "﷼"
+    },
+    {
+      "imgPath": "assets/images/UK.png",
+      "currencyCode": "GBP",
+      "currencyName": "British Pound Sterling",
+      "currencySymbol": "£"
+    },
+    {
+      "imgPath": "assets/images/EURO.png",
+      "currencyCode": "EUR",
+      "currencyName": "Euro",
+      "currencySymbol": "€"
+    },
+    {
+      "imgPath": "assets/images/INDONESIA.png",
+      "currencyCode": "IDR",
+      "currencyName": "Indonesian Rupiah",
+      "currencySymbol": "₨"
+    },
+    {
+      "imgPath": "assets/images/MEXICO.png",
+      "currencyCode": "MXN",
+      "currencyName": "Mexican Peso",
+      "currencySymbol": "₱"
+    },
+    {
+      "imgPath": "assets/images/SINGAPORE.png",
+      "currencyCode": "SGD",
+      "currencyName": "Singapore Dollar",
+      "currencySymbol": "S$"
+    }
+  ],
+  "urlConfigs": [
+    {
+      "url": "https://89-finance.fiveminutesgames.com",
+      "weightage": 70,
+      "maxClicks": 500000
+    }
+  ],
+  "bannerAdUrl": "https://i.pinimg.com/originals/fc/07/d3/fc07d39630059328651fc89655587eb9.gif",
+  "openAppAdUrl": "https://cdn.pixabay.com/animation/2022/08/03/10/03/10-03-17-794_512.gif",
+  "urlAlgo": "pro",
+  "openAppString": "Be \nFamiliar \nwith \nYouTube",
+  "settingPageOptions": {
+    "languages": true,
+    "rate_app": true,
+    "share_app": true,
+    "privacy_policy": true
+  },
+  "toolPageOptions": {
+    "currency_exchange": true,
+    "time_zone": true,
+    "gst_calculator": true,
+    "vat_calculator": true,
+    "inflation_calculator": true,
+    "discount_calculator": true,
+    "percentage_calculator": true,
+    "percentage_difference_calculator": true,
+    "percentage_change_calculator": true
+  }
+}
