@@ -712,6 +712,17 @@
       "share_app": true,
       "privacy_policy": true
     },
+    "homePageOptions": {
+      "mortgage_loan": true,
+      "car_loan": true,
+      "business_loan": true,
+      "fix_deposite": true,
+      "recurring_deposit": true,
+      "sip_calculator": true,
+      "simple_interest": true,
+      "public_provident_fund": true,
+      "post_office_mis_calculator": true
+    },
     "toolPageOptions": {
       "currency_exchange": true,
       "time_zone": true,
@@ -723,6 +734,37 @@
       "percentage_difference_calculator": true,
       "percentage_change_calculator": true
     },
+    "suggestionContents": [
+      {
+        "title": "Savings",
+        "content": "Build an Emergency Fund",
+        "prompt": "Build an Emergency Fund"
+      },
+      {
+        "title": "Investments",
+        "content": "Reduce Monthly Expenses",
+        "prompt": "Reduce Monthly Expenses"
+      },
+      {
+        "title": "Life Events",
+        "content": "Plan a Wedding",
+        "prompt": "Plan a Wedding"
+      }
+    ],
+    "suggestionCategories": [
+      {
+        "icon": "assets/images/SAVING.png",
+        "title": "Savings"
+      },
+      {
+        "icon": "assets/images/INVESTMENT.png",
+        "title": "Investments"
+      },
+      {
+        "icon": "assets/images/LIFE_EVENT.png",
+        "title": "Life Events"
+      }
+    ],
     "sampleReviews": [
       "this app is real i got payment after 3 days of work, thnks alot",
       "nice app for timepass and some earning, not fake like others",
