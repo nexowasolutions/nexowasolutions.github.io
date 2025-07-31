@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "Opinion Rewards",
-    "buildNumber": "1",
+    "buildNumber": 1,
     "requiredMinimumBuildNumber": 6,
     "recommendedMinimumBuildNumber": 6,
     "appBundleId": "com.Technodeveloper.opinionRewards",
