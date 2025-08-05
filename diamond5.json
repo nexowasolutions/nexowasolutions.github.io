@@ -1,0 +1,367 @@
+{
+  "app": {
+    "name": "Organic",
+    "buildNumber": 100,
+    "requiredMinimumBuildNumber": 1,
+    "recommendedMinimumBuildNumber": 1,
+    "appBundleId": "fff.scratch.diamonds.rewards",
+    "dynamicLinkUrl": "https://diamond5.page.link",
+    "shareText": "🎮 Join me on Diamond Reward Pro!\nEarn exciting rewards and diamonds daily! 💎: {link}",
+    "showCopyReviewButton": false,
+    "reviewRewardValue": 250,
+    "showReviewDialog": false,
+    "secretKey": "y"
+  },
+  "ads": {
+    "selectedAdNetwork": "google",
+    "noAfterInterstitialShown": 1,
+    "adUnitIds": {
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded": "ca-app-pub-3940256099942544/5224354917",
+      "native": "ca-app-pub-3940256099942544/2247696110",
+      "appOpen": "ca-app-pub-3940256099942544/9257395921",
+      "rewardedInterstitial": "ca-app-pub-3940256099942544/5354046379",
+      "adaptiveBanner": "ca-app-pub-3940256099942544/9214589741",
+      "collapsibleBanner": "ca-app-pub-3940256099942544/2014213617"
+    },
+    "isShowAppOpenAd": true,
+    "appOpenAd": "none",
+    "openWebInAd": ["rewarded", "interstitial"],
+    "preferredBrowser": "chromeCustomTabs",
+    "webAdsAlgo": "pro",
+    "webAdsConfig": [
+      {
+        "url": "https://15-play-online.fiveminutesgames.com/best-health-insurance-plans-c",
+        "weightage": 50,
+        "maxClicks": 500000
+      }
+    ],
+    "actionAdConfig": {
+      "onBack": {
+        "adType": "none"
+      },
+      "onBackWebsite": {
+        "adType": "website"
+      },
+      "appStateChange": {
+        "adType": "website"
+      },
+      "spinWheelCollect": {
+        "adType": "website"
+      },
+      "spinWheelCollect2x": {
+        "adType": "website"
+      },
+      "redeem": {
+        "adType": "website"
+      },
+      "howItWorks": {
+        "adType": "website"
+      },
+      "shareApp": {
+        "adType": "website"
+      },
+      "notification": {
+        "adType": "website"
+      },
+      "joinTelegram": {
+        "adType": "website"
+      },
+      "scratchcardRedeem": {
+        "adType": "rewarded"
+      },
+      "spinWheelCollectReward": {
+        "adType": "rewarded"
+      },
+      "spinWheelCollect2xReward": {
+        "adType": "rewarded"
+      },
+      "watchAdReward": {
+        "adType": "rewarded"
+      },
+      "goToSpinWheel": {
+        "adType": "website"
+      },
+      "goToScratchcard": {
+        "adType": "website"
+      }
+    },
+    "bannerAdsLayoutConfig": {
+      "home": {
+        "adType": "none",
+        "size": "small",
+        "layoutType": 2
+      },
+      "scratchcardRedeem": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      }
+    }
+  },
+  "social": [
+    {
+      "name": "telegram",
+      "link": "https://t.me/freefiredimondsandemotes",
+      "reward": 50
+    },
+    {
+      "name": "youtube",
+      "link": "https://www.youtube.com/",
+      "reward": 20
+    }
+  ],
+  "customAds": [
+    {
+      "title": "Win the Latest iPhone!",
+      "description": "Your dream phone is just a tap away. Join our giveaway now.",
+      "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
+      "url": "",
+      "action": "Play & Win",
+      "countries": ["ALL"]
+    },
+    {
+      "title": "Get the New Apple Watch",
+      "description": "Track fitness, get notifications, and look cool doing it. Try your luck now!",
+      "image": "https://images.unsplash.com/photo-1551816230-ef5deaed4a26?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
+      "url": "",
+      "action": "Spin & Win",
+      "countries": ["ALL"]
+    },
+    {
+      "title": "Win Apple Vision Pro",
+      "description": "Step into the future of tech. This could be yours!",
+      "image": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
+      "url": "",
+      "action": "Enter to Win",
+      "countries": ["ALL"]
+    },
+    {
+      "title": "Grab Samsung Galaxy S25",
+      "description": "Flagship performance, yours to win. Try your luck!",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "logo": "https://images.samsung.com/is/image/samsung/assets/us/about-us/brand/logo/pc/720_600_1.png?$720_N_PNG$",
+      "url": "",
+      "action": "Try Now",
+      "countries": ["ALL"]
+    },
+    {
+      "title": "Win a Brand New MacBook",
+      "description": "Work, create, or game on a premium Mac. It could be yours!",
+      "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
+      "url": "",
+      "action": "Enter Draw",
+      "countries": ["ALL"]
+    },
+    {
+      "title": "Win Real Cash Today!",
+      "description": "Fast, fun, and rewarding. Claim your chance at real money.",
+      "image": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "logo": "https://cdn-icons-png.flaticon.com/512/2150/2150150.png",
+      "url": "",
+      "action": "Start Winning",
+      "countries": ["ALL"]
+    },
+    {
+      "title": "Spin & Win Big Prizes",
+      "description": "Every spin is a chance to win Apple devices and cash!",
+      "image": "https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
+      "url": "",
+      "action": "Spin Now",
+      "countries": ["ALL"]
+    },
+    {
+      "title": "Luxury Tech Prizes Await",
+      "description": "From iPhones to Vision Pro — win premium gadgets daily!",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
+      "url": "",
+      "action": "Join Free Draw",
+      "countries": ["ALL"]
+    },
+    {
+      "title": "Biggest Tech Giveaway!",
+      "description": "Win iPhones, MacBooks, Watches & More — All in One Place!",
+      "image": "https://images.unsplash.com/photo-1468495244123-6c6c332eeece?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
+      "url": "",
+      "action": "Try Your Luck",
+      "countries": ["ALL"]
+    },
+    {
+      "title": "New Winners Every Day!",
+      "description": "Don't miss your chance to win real money or top gadgets.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
+      "url": "",
+      "action": "Play Now",
+      "countries": ["ALL"]
+    }
+  ],
+  "rewards": {
+    "dailyRewardMaxDays": 30,
+    "dailyRewardAmounts": [10, 20, 30]
+  },
+  "crossPromotionApps": [
+    {
+      "name": "Captcha Entry: Typing Job work",
+      "logo": "https://play-lh.googleusercontent.com/DDBglRyoN6kLDQUxPsdtXTr34SNCOooNj0WNbyQWDOJL09xsJsEJ-r-KByYOKjh4X6hl=w240-h480-rw",
+      "appLink": "https://play.google.com/store/apps/details?id=typingbot.captchasolver.jobWorkOnline&hl=en",
+      "rewardValue": 25
+    },
+    {
+      "name": "Photo Editor Pro",
+      "logo": "https://play-lh.googleusercontent.com/E5tYx17khgpOVz_rwdFsKuqXq9Zv1-C2clX7tZ2ruKmpfeybhkE-kUvI5n3fWmDaBj8=w240-h480-rw",
+      "appLink": "https://play.google.com/store/apps/details?id=cashStep.walk.earnRewards&hl=en",
+      "rewardValue": 30
+    }
+  ],
+  "userConfig": {
+    "isShowReviewButton": true,
+    "isShowOnboarding": true,
+    "isShowFullAdOnBoarding": false,
+    "showCodeVerifyOnWatchAds": true,
+    "homeScratchReward": 1000,
+    "showCodeVerifyOnSpinWheel": true,
+    "howItWorksVideoUrl": "https://www.youtube.com/watch?v=aHX84BCeRuA",
+    "scratchRewards": [300, 200, 100, 50, 40, 30, 20, 10],
+    "maxDailyClicks": 40,
+    "currentClicks": 0,
+    "diamondsPerClick": 60,
+    "isScratchCardEnabled": true,
+    "shareReward": 75,
+    "isShareEnabled": true,
+    "isSpinWheelEnabled": true,
+    "spinWheelMaxDaily": 15,
+    "spinWheelCurrentSpins": 0,
+    "isLeaderboardEnabled": true,
+    "topPlayers": [
+      {
+        "name": "78*****156",
+        "score": 75665,
+        "position": 1,
+        "avatarUrl": null
+      },
+      {
+        "name": "46*****588",
+        "score": 12565,
+        "position": 2,
+        "avatarUrl": null
+      },
+      {
+        "name": "65*****928",
+        "score": 7900,
+        "position": 3,
+        "avatarUrl": null
+      }
+    ],
+    "showLeaderboardBadge": true,
+    "isMarqueeEnabled": true,
+    "cardOrder": ["leaderboard", "scratchCard", "spinWheel", "shareAndRate"],
+    "showHowItWorksEveryTime": false,
+    "showAdWhenCloseHowItWorks": true,
+    "isWithdrawEnabled": true,
+    "showAdsOnAppStateChange": false,
+    "maxAdsOnAppStateChange": 3,
+    "showRewardedAdOn2xCollect": false,
+    "showRewardedAdOnCollect": false,
+    "watchAdsBeforeRewarded": 100,
+    "showRewardedAdOnWatchAds": false,
+    "sampleReviews": [
+      "I got 300 diamonds, so happy!",
+      "muito bom, saquei 200 Dimas ontem",
+      "increíble, mis diamantes llegaron hoy!",
+      "this app so cool, dimonds are real!!",
+      "ganhei Dimas rápido, app ótimo!",
+      "100% funciona, já saquei meus dimonds",
+      "app works!! got my diamonds wow",
+      "diamantes reales, no pensé que fuera verdad",
+      "muito bom, recomendo pra todo mundo",
+      "I luv this app, dimonds fast and real!",
+      "los diamantes llegaron rápido, mejor app",
+      "it's real, I got 500 diamonds in 2 days",
+      "funciona mesmo, recebi os Dimas rapidinho",
+      "this app is the best, dimonds came so quick",
+      "app confiável, saquei sem problemas",
+      "lo mejor, saqué diamantes súper rápido",
+      "dimonds work, amazing app!",
+      "nunca vi um app assim, muito bom mesmo",
+      "recibí 300 diamantes, súper feliz ahora!",
+      "dimonds came true, can't believe it",
+      "ótimo, saquei ontem e já recebi hoje",
+      "diamantes garantizados, 100% confiable",
+      "dimonds came!!! try this app now",
+      "increíble, fácil de usar y funciona de verdad",
+      "simplesmente amei, já ganhei meus Dimas",
+      "the app works real, dimonds came easy",
+      "excelente app para sacar diamantes rápido",
+      "real diamonds, love this app so much",
+      "ganhei 100 Dimas em um dia, perfeito!",
+      "funciona mesmo, é só baixar e usar",
+      "los diamantes son reales, mejor app de todas",
+      "dimonds real, I luv this app guys",
+      "baixe agora, funciona super bem!",
+      "mis diamantes llegaron, no lo puedo creer!",
+      "app easy and fast, dimonds came today",
+      "me encanta, ya tengo mis diamantes",
+      "tão fácil, saquei meus Dimas rapidinho",
+      "dimonds are real, app works perfectly",
+      "nunca pensei que fosse verdade, mas é!",
+      "muy buena app, los diamantes son reales",
+      "dimonds quick, love this so much",
+      "amazing, saquei e recebi em 2 dias",
+      "perfect app for dimonds, no joke",
+      "dimonds chegou rápido, muito top",
+      "I use this app all time, dimonds real",
+      "realmente funciona, já saquei duas vezes",
+      "dimonds so cool, try this app now",
+      "me llegó rápido, mis diamantes son reales",
+      "melhor app pra ganhar Dimas, recomendo",
+      "dimonds came quick, I’m happy!!"
+    ],
+    "withdrawOptions": [
+      {
+        "amount": 5000,
+        "diamonds": 500,
+        "color1": "0xff0CEBB2",
+        "color2": "0xff1D9C67"
+      },
+      {
+        "amount": 10000,
+        "diamonds": 1000,
+        "color1": "0xffFE943E",
+        "color2": "0xffFB4844"
+      },
+      {
+        "amount": 15000,
+        "diamonds": 2000,
+        "color1": "0xffFFCE75",
+        "color2": "0xffFFA145"
+      },
+      {
+        "amount": 20000,
+        "diamonds": 3000,
+        "color1": "0xff80C1F9",
+        "color2": "0xff1683FA"
+      },
+      {
+        "amount": 25000,
+        "diamonds": 4000,
+        "color1": "0xffC8B0FC",
+        "color2": "0xff895EEB"
+      },
+      {
+        "amount": 50000,
+        "diamonds": 5000,
+        "color1": "0xffC258D6",
+        "color2": "0xffFD4D98"
+      }
+    ]
+  }
+}
