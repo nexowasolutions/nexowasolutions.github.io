@@ -1,9 +1,9 @@
 {
   "app": {
     "name": "Organic",
-    "buildNumber": 9,
-    "requiredMinimumBuildNumber": 9,
-    "recommendedMinimumBuildNumber": 9,
+    "buildNumber": 10,
+    "requiredMinimumBuildNumber": 7,
+    "recommendedMinimumBuildNumber": 7,
     "appBundleId": "cashStep.walk.earnRewards",
     "dynamicLinkUrl": "https://cashStep.page.link",
     "shareText": "Hey this is amazing bro, You just walk and earn. I'm using it and I love it try it: {link}",
@@ -25,8 +25,11 @@
       "collapsibleBanner": "ca-app-pub-3940256099942544/2014213617"
     },
     "isShowAppOpenAd": true,
-    "appOpenAd": "none",
-    "openWebInAd": ["rewarded", "interstitial"],
+    "appOpenAd": "google",
+    "openWebInAd": [
+      "rewarded",
+      "interstitial"
+    ],
     "preferredBrowser": "chromeCustomTabs",
     "webAdsAlgo": "pro",
     "webAdsConfig": [
@@ -41,49 +44,79 @@
         "adType": "none"
       },
       "onBackWebsite": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "dailyRewardNavigation": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "spinWheelNavigation": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "redeemGiftsNavigation": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "stepRewardNavigation": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "spinWheelClaim": {
-        "adType": "website"
+        "adType": "rewarded"
       },
       "countDownReward": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "dailyCheckReward": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "redeemGiftsSpin": {
-        "adType": "website"
+        "adType": "rewarded"
       },
       "doubleReward": {
-        "adType": "website"
+        "adType": "rewarded"
       },
       "stepRewardClaim": {
         "adType": "none"
       },
       "dailyRewardClaim": {
-        "adType": "website"
+        "adType": "rewarded"
       },
       "redeemGiftsRefresh": {
-        "adType": "website"
+        "adType": "rewarded"
+      },
+      "redeem": {
+        "adType": "rewarded"
       },
       "redeemNavigation": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "redeemProductClaim": {
         "adType": "website"
+      },
+      "copywriterCaptcha": {
+        "adType": "interstitial"
+      },
+      "extremePuzzleCaptcha": {
+        "adType": "interstitial"
+      },
+      "hardPuzzleCaptcha": {
+        "adType": "interstitial"
+      },
+      "mathematicalCaptcha": {
+        "adType": "interstitial"
+      },
+      "mediumPuzzleCaptcha": {
+        "adType": "interstitial"
+      },
+      "normalPuzzleCaptcha": {
+        "adType": "interstitial"
+      },
+      "numberCaptcha": {
+        "adType": "interstitial"
+      },
+      "sliderCaptcha": {
+        "adType": "interstitial"
+      },
+      "textCaptcha": {
+        "adType": "interstitial"
       }
     },
     "bannerAdsLayoutConfig": {
@@ -126,6 +159,61 @@
         "adType": "nativeAd",
         "size": "medium",
         "layoutType": 3
+      },
+      "copywriter": {
+        "adType": "nativeAd",
+        "layoutType": 1,
+        "size": "small"
+      },
+      "extremePuzzle": {
+        "adType": "nativeAd",
+        "layoutType": 1,
+        "size": "small"
+      },
+      "hardPuzzle": {
+        "adType": "nativeAd",
+        "layoutType": 1,
+        "size": "small"
+      },
+      "mathematical": {
+        "adType": "nativeAd",
+        "layoutType": 1,
+        "size": "small"
+      },
+      "mediumPuzzle": {
+        "adType": "nativeAd",
+        "layoutType": 1,
+        "size": "small"
+      },
+      "normalPuzzle": {
+        "adType": "nativeAd",
+        "layoutType": 1,
+        "size": "small"
+      },
+      "number": {
+        "adType": "nativeAd",
+        "layoutType": 1,
+        "size": "small"
+      },
+      "puzzle": {
+        "adType": "nativeAd",
+        "layoutType": 1,
+        "size": "small"
+      },
+      "slider": {
+        "adType": "nativeAd",
+        "layoutType": 1,
+        "size": "small"
+      },
+      "text": {
+        "adType": "nativeAd",
+        "layoutType": 1,
+        "size": "small"
+      },
+      "viewImage": {
+        "adType": "nativeAd",
+        "layoutType": 1,
+        "size": "small"
       }
     }
   },
@@ -144,7 +232,9 @@
       "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
       "url": "",
       "action": "Play & Win",
-      "countries": ["ALL"]
+      "countries": [
+        "ALL"
+      ]
     },
     {
       "title": "Get the New Apple Watch",
@@ -153,7 +243,9 @@
       "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
       "url": "",
       "action": "Spin & Win",
-      "countries": ["ALL"]
+      "countries": [
+        "ALL"
+      ]
     },
     {
       "title": "Win Apple Vision Pro",
@@ -162,7 +254,9 @@
       "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
       "url": "",
       "action": "Enter to Win",
-      "countries": ["ALL"]
+      "countries": [
+        "ALL"
+      ]
     },
     {
       "title": "Grab Samsung Galaxy S25",
@@ -171,7 +265,9 @@
       "logo": "https://images.samsung.com/is/image/samsung/assets/us/about-us/brand/logo/pc/720_600_1.png?$720_N_PNG$",
       "url": "",
       "action": "Try Now",
-      "countries": ["ALL"]
+      "countries": [
+        "ALL"
+      ]
     },
     {
       "title": "Win a Brand New MacBook",
@@ -180,7 +276,9 @@
       "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
       "url": "",
       "action": "Enter Draw",
-      "countries": ["ALL"]
+      "countries": [
+        "ALL"
+      ]
     },
     {
       "title": "Win Real Cash Today!",
@@ -189,7 +287,9 @@
       "logo": "https://cdn-icons-png.flaticon.com/512/2150/2150150.png",
       "url": "",
       "action": "Start Winning",
-      "countries": ["ALL"]
+      "countries": [
+        "ALL"
+      ]
     },
     {
       "title": "Spin & Win Big Prizes",
@@ -198,7 +298,9 @@
       "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
       "url": "",
       "action": "Spin Now",
-      "countries": ["ALL"]
+      "countries": [
+        "ALL"
+      ]
     },
     {
       "title": "Luxury Tech Prizes Await",
@@ -207,7 +309,9 @@
       "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
       "url": "",
       "action": "Join Free Draw",
-      "countries": ["ALL"]
+      "countries": [
+        "ALL"
+      ]
     },
     {
       "title": "Biggest Tech Giveaway!",
@@ -216,7 +320,9 @@
       "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
       "url": "",
       "action": "Try Your Luck",
-      "countries": ["ALL"]
+      "countries": [
+        "ALL"
+      ]
     },
     {
       "title": "New Winners Every Day!",
@@ -225,12 +331,18 @@
       "logo": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c516.png",
       "url": "",
       "action": "Play Now",
-      "countries": ["ALL"]
+      "countries": [
+        "ALL"
+      ]
     }
   ],
   "rewards": {
     "dailyRewardMaxDays": 30,
-    "dailyRewardAmounts": [10, 20, 30]
+    "dailyRewardAmounts": [
+      10,
+      20,
+      30
+    ]
   },
   "crossPromotionApps": [
     {
@@ -255,6 +367,32 @@
         "dailySpin": 15
       }
     },
+    "captchaConfigs": {
+      "number": {
+        "numberOfCaptchas": 10,
+        "pointsPerCaptcha": 1
+      },
+      "text": {
+        "numberOfCaptchas": 10,
+        "pointsPerCaptcha": 2
+      },
+      "slider": {
+        "numberOfCaptchas": 10,
+        "pointsPerCaptcha": 3
+      },
+      "puzzle": {
+        "numberOfCaptchas": 5,
+        "pointsPerCaptcha": 10
+      },
+      "copywriter": {
+        "numberOfCaptchas": 10,
+        "pointsPerCaptcha": 5
+      },
+      "mathematical": {
+        "numberOfCaptchas": 10,
+        "pointsPerCaptcha": 5
+      }
+    },
     "sampleReviews": [
       "this app is real i got payment after 3 days of work, thnks alot",
       "nice app for timepass and some earning, not fake like others",
@@ -271,62 +409,62 @@
       {
         "withdrawItem": "Samsung s24 ultra",
         "image": "assets/images/samsung_s24_ultra.webp",
-        "coins": 62450
+        "coins": 1000
       },
       {
         "withdrawItem": "ipad air",
         "image": "assets/images/ipad_pro.webp",
-        "coins": 43990
+        "coins": 4399
       },
       {
         "withdrawItem": "iPhone 15 Pro",
         "image": "assets/images/iphone15.webp",
-        "coins": 59990
+        "coins": 5999
       },
       {
         "withdrawItem": "Headphone",
         "image": "assets/images/headphone.webp",
-        "coins": 30000
+        "coins": 3000
       },
       {
         "withdrawItem": "MacBook Air",
         "image": "assets/images/macbook.webp",
-        "coins": 64630
+        "coins": 6463
       },
       {
         "withdrawItem": "IMac",
         "image": "assets/images/imac.webp",
-        "coins": 69950
+        "coins": 6995
       },
       {
         "withdrawItem": "iPhone 14",
         "image": "assets/images/iphone14_pro.webp",
-        "coins": 58770
+        "coins": 5877
       },
       {
         "withdrawItem": "Sony Bravia",
         "image": "assets/images/sony_bravia.webp",
-        "coins": 32340
+        "coins": 3234
       },
       {
         "withdrawItem": "Dyson",
         "image": "assets/images/dyson.webp",
-        "coins": 28760
+        "coins": 2876
       },
       {
         "withdrawItem": "Air Pods",
         "image": "assets/images/air_pods.webp",
-        "coins": 98760
+        "coins": 9876
       },
       {
         "withdrawItem": "Apple Vision Pro",
         "image": "assets/images/apple_vision.webp",
-        "coins": 56600
+        "coins": 5660
       },
       {
         "withdrawItem": "Smartwatch",
         "image": "assets/images/smartwatch.webp",
-        "coins": 38700
+        "coins": 3870
       }
     ]
   }
