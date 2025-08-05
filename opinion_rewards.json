@@ -26,10 +26,7 @@
     },
     "isShowAppOpenAd": true,
     "appOpenAd": "google",
-    "openWebInAd": [
-      "rewarded",
-      "interstitial"
-    ],
+    "openWebInAd": ["rewarded", "interstitial"],
     "preferredBrowser": "chromeCustomTabs",
     "webAdsAlgo": "pro",
     "webAdsConfig": [
@@ -164,18 +161,12 @@
       "logo": "https://img.freepik.com/premium-vector/education-logo-vector_1072857-11370.jpg",
       "url": "https://nexowa.com/case-studies",
       "action": "Enroll Now",
-      "countries": [
-        "ALL"
-      ]
+      "countries": ["ALL"]
     }
   ],
   "rewards": {
     "dailyRewardMaxDays": 30,
-    "dailyRewardAmounts": [
-      10,
-      20,
-      30
-    ]
+    "dailyRewardAmounts": [10, 20, 30]
   },
   "crossPromotionApps": [
     {
