@@ -26,7 +26,10 @@
     },
     "isShowAppOpenAd": true,
     "appOpenAd": "google",
-    "openWebInAd": ["rewarded", "interstitial"],
+    "openWebInAd": [
+      "rewarded",
+      "interstitial"
+    ],
     "preferredBrowser": "chromeCustomTabs",
     "webAdsAlgo": "pro",
     "webAdsConfig": [
@@ -91,16 +94,28 @@
       "questsMonthlyRewardClaim": {
         "adType": "website"
       },
+      "surveyRewardClaim": {
+        "adType": "website"
+      },
       "review": {
         "adType": "website"
       },
       "shareApp": {
         "adType": "website"
+      },
+      "getStarted": {
+        "adType": "website"
+      },
+      "onBoarding": {
+        "adType": "website"
+      },
+      "onBoardingNone": {
+        "adType": "website"
       }
     },
     "bannerAdsLayoutConfig": {
       "homeScreen": {
-        "adType": "nativeAd",
+        "adType": "none",
         "size": "small",
         "layoutType": 2
       },
@@ -127,12 +142,12 @@
       "surveyScreen": {
         "adType": "nativeAd",
         "size": "small",
-        "layoutType": 1
+        "layoutType": 2
       },
       "surveyCompletionScreen": {
         "adType": "nativeAd",
         "size": "small",
-        "layoutType": 1
+        "layoutType": 2
       },
       "spinWheelScreen": {
         "adType": "nativeAd",
@@ -143,6 +158,26 @@
         "adType": "nativeAd",
         "size": "small",
         "layoutType": 1
+      },
+      "onBoarding1": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      },
+      "onBoarding2": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      },
+      "onBoarding3": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      },
+      "onBoarding4": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
       }
     }
   },
@@ -161,12 +196,18 @@
       "logo": "https://img.freepik.com/premium-vector/education-logo-vector_1072857-11370.jpg",
       "url": "https://nexowa.com/case-studies",
       "action": "Enroll Now",
-      "countries": ["ALL"]
+      "countries": [
+        "ALL"
+      ]
     }
   ],
   "rewards": {
     "dailyRewardMaxDays": 30,
-    "dailyRewardAmounts": [10, 20, 30]
+    "dailyRewardAmounts": [
+      10,
+      20,
+      30
+    ]
   },
   "crossPromotionApps": [
     {
@@ -183,6 +224,7 @@
     }
   ],
   "userConfig": {
+    "showOnboarding": true,
     "minimumPayout": 2000,
     "questsDailyReward": 20,
     "questsMonthlyReward": 100,
