@@ -1,9 +1,9 @@
 {
   "app": {
-    "name": "Opinion Rewards",
-    "buildNumber": "1",
-    "requiredMinimumBuildNumber": 6,
-    "recommendedMinimumBuildNumber": 6,
+    "name": "All Users",
+    "buildNumber": 2,
+    "requiredMinimumBuildNumber": 2,
+    "recommendedMinimumBuildNumber": 2,
     "appBundleId": "com.Technodeveloper.opinionRewards",
     "dynamicLinkUrl": "https://opinionrewards.page.link",
     "shareText": "Hey! Download the app now {link}",
@@ -14,16 +14,6 @@
   },
   "ads": {
     "selectedAdNetwork": "google",
-    "adUnitIds": {
-      "banner": "ca-app-pub-3940256099942544/6300978111",
-      "collapsibleBanner": "ca-app-pub-3940256099942544/2014213617",
-      "adaptiveBanner": "ca-app-pub-3940256099942544/9214589741",
-      "interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "rewarded": "ca-app-pub-3940256099942544/5224354917",
-      "rewardedInterstitial": "ca-app-pub-3940256099942544/5354046379",
-      "native": "ca-app-pub-3940256099942544/2247696110",
-      "appOpen": "ca-app-pub-3940256099942544/9257395921"
-    },
     "isShowAppOpenAd": true,
     "appOpenAd": "google",
     "openWebInAd": [
@@ -32,88 +22,119 @@
     ],
     "preferredBrowser": "chromeCustomTabs",
     "webAdsAlgo": "pro",
+    "noAfterInterstitialShown": 2,
+    "adUnitIds": {
+      "appOpen": "/21753324030,23309973686/com.Technodeveloper.opinionRewards_AppOpen",
+      "banner": "/21753324030,23309973686/com.Technodeveloper.opinionRewards_Banner",
+      "collapsibleBanner": "/21753324030,23309973686/com.Technodeveloper.opinionRewards_Banner",
+      "adaptiveBanner": "/21753324030,23309973686/com.Technodeveloper.opinionRewards_Banner",
+      "interstitial": "/21753324030,23309973686/com.Technodeveloper.opinionRewards_Interstitial",
+      "rewarded": "/21753324030,23309973686/com.Technodeveloper.opinionRewards_Rewarded",
+      "rewardedInterstitial": "/21753324030,23309973686/com.Technodeveloper.opinionRewards_Rewarded",
+      "native": "/21753324030,23309973686/com.Technodeveloper.opinionRewards_Native"
+    },
     "webAdsConfig": [
       {
-        "url": "https://google.com/",
+        "url": "https://008.play.khelsaga.com/best-health-insurance-plans/",
         "weightage": 50,
-        "maxClicks": 500
+        "maxClicks": 10000
       }
     ],
     "actionAdConfig": {
+      "getStarted": {
+        "adType": "none"
+      },
+      "onBoarding": {
+        "adType": "none"
+      },
+      "onBoardingNone": {
+        "adType": "none"
+      },
       "onBack": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "surveyNavigation": {
-        "adType": "website"
+        "adType": "none"
       },
       "surveyNextQuestionNavigation": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "surveyPreviousQuestionNavigation": {
         "adType": "website"
       },
       "exitSurveyNavigation": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "exitSurveyCancelNavigation": {
-        "adType": "website"
+        "adType": "none"
       },
       "surveyCompletionNavigation": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "nextSurveyNavigation": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "noMoreSurveyNavigation": {
-        "adType": "website"
+        "adType": "none"
       },
       "closeSurveyNavigation": {
-        "adType": "website"
+        "adType": "none"
       },
       "spinWheelNavigation": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "spinWheelCloseNavigation": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "paymentMethodNavigation": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "withdrawAmountTap": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "withdrawNavigation": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "spinWheelRewardClaim": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "questsDailyRewardClaim": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "questsMonthlyRewardClaim": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "surveyRewardClaim": {
-        "adType": "website"
+        "adType": "interstitial"
       },
       "review": {
-        "adType": "website"
+        "adType": "none"
       },
       "shareApp": {
-        "adType": "website"
-      },
-      "getStarted": {
-        "adType": "website"
-      },
-      "onBoarding": {
-        "adType": "website"
-      },
-      "onBoardingNone": {
-        "adType": "website"
+        "adType": "none"
       }
     },
     "bannerAdsLayoutConfig": {
+      "onBoarding1": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 1
+      },
+      "onBoarding2": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 1
+      },
+      "onBoarding3": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 1
+      },
+      "onBoarding4": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 1
+      },
       "homeScreen": {
         "adType": "none",
         "size": "small",
@@ -158,26 +179,6 @@
         "adType": "nativeAd",
         "size": "small",
         "layoutType": 1
-      },
-      "onBoarding1": {
-        "adType": "nativeAd",
-        "size": "small",
-        "layoutType": 2
-      },
-      "onBoarding2": {
-        "adType": "nativeAd",
-        "size": "small",
-        "layoutType": 2
-      },
-      "onBoarding3": {
-        "adType": "nativeAd",
-        "size": "small",
-        "layoutType": 2
-      },
-      "onBoarding4": {
-        "adType": "nativeAd",
-        "size": "small",
-        "layoutType": 2
       }
     }
   },
@@ -185,7 +186,7 @@
     {
       "name": "telegram",
       "link": "https://t.me/captchajobonline",
-      "reward": 50
+      "reward": 1
     }
   ],
   "customAds": [
@@ -225,9 +226,9 @@
   ],
   "userConfig": {
     "showOnboarding": true,
-    "minimumPayout": 2000,
-    "questsDailyReward": 20,
-    "questsMonthlyReward": 100,
+    "minimumPayout": 150,
+    "questsDailyReward": 5,
+    "questsMonthlyReward": 75,
     "sampleReviews": [
       "this app is real i got payment after 3 days of work, thnks alot",
       "nice app for timepass and some earning, not fake like others",
