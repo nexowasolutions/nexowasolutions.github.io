@@ -19,7 +19,7 @@
     "openWebInAd": ["rewarded", "interstitial"],
     "preferredBrowser": "chromeCustomTabs",
     "webAdsAlgo": "pro",
-    "noAfterInterstitialShown": 2,
+    "noAfterInterstitialShown": 0,
     "adUnitIds": {
       "appOpen": "/21753324030,23309973686/com.Technodeveloper.opinionRewards_AppOpen",
       "banner": "/21753324030,23309973686/com.Technodeveloper.opinionRewards_Banner",
@@ -54,7 +54,7 @@
         "adType": "none"
       },
       "surveyNextQuestionNavigation": {
-        "adType": "interstitial"
+        "adType": "none"
       },
       "surveyPreviousQuestionNavigation": {
         "adType": "website"
@@ -199,7 +199,7 @@
   ],
   "rewards": {
     "dailyRewardMaxDays": 30,
-    "dailyRewardAmounts": [1, 2, 3]
+    "dailyRewardAmounts": [10, 20, 30]
   },
   "crossPromotionApps": [
     {
@@ -212,7 +212,7 @@
       "name": "Photo Editor Pro",
       "logo": "https://cdn.example.com/photo-editor-logo.png",
       "appLink": "https://apps.apple.com/app/photo-editor-pro/id123456789",
-      "rewardValue": 2
+      "rewardValue": 3
     }
   ],
   "userConfig": {
