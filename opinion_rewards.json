@@ -8,7 +8,7 @@
     "dynamicLinkUrl": "https://opinionrewards.page.link",
     "shareText": "Hey! Download the app now {link}",
     "showCopyReviewButton": true,
-    "reviewRewardValue": 200,
+    "reviewRewardValue": 2,
     "showReviewDialog": true,
     "secretKey": "y"
   },
@@ -199,26 +199,26 @@
   ],
   "rewards": {
     "dailyRewardMaxDays": 30,
-    "dailyRewardAmounts": [10, 20, 30]
+    "dailyRewardAmounts": [1, 2, 3]
   },
   "crossPromotionApps": [
     {
       "name": "Super Puzzle Game",
       "logo": "https://cdn.example.com/puzzle-logo.png",
       "appLink": "https://play.google.com/store/apps/details?id=com.nexowa.puzzle",
-      "rewardValue": 25
+      "rewardValue": 2
     },
     {
       "name": "Photo Editor Pro",
       "logo": "https://cdn.example.com/photo-editor-logo.png",
       "appLink": "https://apps.apple.com/app/photo-editor-pro/id123456789",
-      "rewardValue": 30
+      "rewardValue": 2
     }
   ],
   "userConfig": {
     "showOnboarding": true,
     "minimumPayout": 150,
-    "questsDailyReward": 5,
+    "questsDailyReward": 3,
     "questsMonthlyReward": 75,
     "sampleReviews": [
       "this app is real i got payment after 3 days of work, thnks alot",
