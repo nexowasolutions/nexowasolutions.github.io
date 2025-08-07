@@ -1,0 +1,302 @@
+{
+  "app": {
+    "name": "Organic",
+    "buildNumber": 15,
+    "requiredMinimumBuildNumber": 15,
+    "recommendedMinimumBuildNumber": 15,
+    "appBundleId": "btc.crazygamer.mining",
+    "dynamicLinkUrl": "https://usdtmining.page.link",
+    "shareText": "Hey! Download the app now: {link}",
+    "showCopyReviewButton": false,
+    "reviewRewardValue": 0,
+    "showReviewDialog": false,
+    "secretKey": "y"
+  },
+  "ads": {
+    "selectedAdNetwork": "google",
+    "noAfterInterstitialShown": 0,
+    "isShowAppOpenAd": true,
+    "appOpenAd": "google",
+    "adUnitIds": {
+      "banner": "/21753324030,23309973686/btc.crazygamer.mining_Banner",
+      "interstitial": "/21753324030,23309973686/btc.crazygamer.mining_Interstitial",
+      "rewarded": "/21753324030,23309973686/btc.crazygamer.mining_Rewarded",
+      "native": "/21753324030,23309973686/btc.crazygamer.mining_Native",
+      "appOpen": "/21753324030,23309973686/btc.crazygamer.mining_AppOpen",
+      "rewardedInterstitial": "/21753324030,23309973686/btc.crazygamer.mining_Rewarded",
+      "adaptiveBanner": "ca-app-pub-3940256099942544/9214589741",
+      "collapsibleBanner": "ca-app-pub-3940256099942544/2014213617"
+    },
+    "openWebInAd": [
+      "rewarded",
+      "interstitial"
+    ],
+    "preferredBrowser": "chromeCustomTabs",
+    "webAdsAlgo": "pro",
+    "webAdsConfig": [
+      {
+        "url": "https://007.play.khelsaga.com/best-health-insurance-plans",
+        "weightage": 50,
+        "maxClicks": 1000000
+      }
+    ],
+    "actionAdConfig": {
+      "back": {
+        "adType": "interstitial"
+      },
+      "pageChange": {
+        "adType": "website"
+      },
+      "bottomNav": {
+        "adType": "none"
+      },
+      "moreReward": {
+        "adType": "interstitial"
+      },
+      "stopMining": {
+        "adType": "website"
+      },
+      "startMining": {
+        "adType": "website"
+      },
+      "withdraw": {
+        "adType": "website"
+      },
+      "notification": {
+        "adType": "none"
+      },
+      "level": {
+        "adType": "website"
+      },
+      "profile": {
+        "adType": "none"
+      },
+      "convertSuperCoin": {
+        "adType": "interstitial"
+      },
+      "reward": {
+        "adType": "website"
+      },
+      "helpCenter": {
+        "adType": "none"
+      },
+      "resetSuperCoin": {
+        "adType": "none"
+      },
+      "upgradeMiningSpeed": {
+        "adType": "website"
+      },
+      "upgradeMiningTime": {
+        "adType": "interstitial"
+      },
+      "addTime": {
+        "adType": "website"
+      },
+      "addTimeDialogOpen": {
+        "adType": "none"
+      },
+      "addSpeed": {
+        "adType": "website"
+      },
+      "addSpeedDialogOpen": {
+        "adType": "none"
+      },
+      "upgradeMiningTimeOkay": {
+        "adType": "website"
+      },
+      "inviteMember": {
+        "adType": "none"
+      },
+      "logout": {
+        "adType": "none"
+      }
+    },
+    "bannerAdsLayoutConfig": {
+      "level": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 1
+      },
+      "profile": {
+        "adType": "nativeAd",
+        "size": "medium",
+        "layoutType": 2
+      },
+      "convertSuperCoin": {
+        "adType": "nativeAd",
+        "size": "medium",
+        "layoutType": 2
+      },
+      "reward": {
+        "adType": "nativeAd",
+        "size": "medium",
+        "layoutType": 1
+      },
+      "speed": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      },
+      "withdraw": {
+        "adType": "nativeAd",
+        "size": "medium",
+        "layoutType": 1
+      },
+      "setting": {
+        "adType": "nativeAd",
+        "size": "medium",
+        "layoutType": 1
+      },
+      "helpCenter": {
+        "adType": "nativeAd",
+        "size": "medium",
+        "layoutType": 1
+      },
+      "home": {
+        "adType": "nativeAd",
+        "size": "medium",
+        "layoutType": 1
+      }
+    }
+  },
+  "social": [
+    {
+      "name": "telegram",
+      "link": "https://t.me/freefiredimondsandemotes",
+      "reward": 50
+    },
+    {
+      "name": "youtube",
+      "link": "https://www.youtube.com/",
+      "reward": 20
+    }
+  ],
+  "customAds": [
+    {
+      "title": "Everyone gets $500",
+      "description": "Everyone that visit our page that get $500",
+      "image": "https://i.ibb.co/ZRwzTZhh/58fd00d0-9fda-4350-946e-72c420058bdb.png",
+      "logo": "https://i.ibb.co/B2fg7GQf/logo.jpg",
+      "url": "",
+      "action": "Participate",
+      "countries": [
+        "ALL"
+      ]
+    }
+  ],
+  "rewards": {
+    "dailyRewardMaxDays": 30,
+    "dailyRewardAmounts": [
+      10,
+      20,
+      30
+    ]
+  },
+  "crossPromotionApps": [
+    {
+      "name": "Captcha Entry: Typing Job work",
+      "logo": "https://play-lh.googleusercontent.com/DDBglRyoN6kLDQUxPsdtXTr34SNCOooNj0WNbyQWDOJL09xsJsEJ-r-KByYOKjh4X6hl=w240-h480-rw",
+      "appLink": "https://play.google.com/store/apps/details?id=typingbot.captchasolver.jobWorkOnline&hl=en",
+      "rewardValue": 25
+    },
+    {
+      "name": "CashStep: Walk to Earn Rewards",
+      "logo": "https://play-lh.googleusercontent.com/E5tYx17khgpOVz_rwdFsKuqXq9Zv1-C2clX7tZ2ruKmpfeybhkE-kUvI5n3fWmDaBj8=w240-h480-rw",
+      "appLink": "https://play.google.com/store/apps/details?id=cashStep.walk.earnRewards&hl=en",
+      "rewardValue": 30
+    }
+  ],
+  "userConfig": {
+    "defaultMiningSpeed": 60,
+    "superCoinRatePerUsdt": 20000000000,
+    "defaultMiningTime": 30,
+    "minWithdrawAmount": 0.002,
+    "moreRewardAmount": 5,
+    "dailyMaxMoreReward": 5,
+    "speedLevels": [
+      30,
+      60,
+      100
+    ],
+    "timerLevels": [
+      15,
+      25,
+      45
+    ],
+    "isWithdrawEnabled": true,
+    "speedUpgradeConfigs": [
+      {
+        "id": 0,
+        "level": 1,
+        "cost": 0,
+        "value": 0
+      },
+      {
+        "id": 1,
+        "level": 2,
+        "cost": 10000,
+        "value": 200
+      },
+      {
+        "id": 2,
+        "level": 3,
+        "cost": 50000,
+        "value": 300
+      },
+      {
+        "id": 3,
+        "level": 4,
+        "cost": 100000,
+        "value": 400
+      }
+    ],
+    "timeUpgradeConfigs": [
+      {
+        "id": 0,
+        "level": 1,
+        "cost": 0,
+        "value": 0
+      },
+      {
+        "id": 1,
+        "level": 2,
+        "cost": 50000,
+        "value": 20
+      },
+      {
+        "id": 2,
+        "level": 3,
+        "cost": 120000,
+        "value": 30
+      },
+      {
+        "id": 3,
+        "level": 4,
+        "cost": 200000,
+        "value": 40
+      }
+    ],
+    "withdrawOptions": [
+      {
+        "coin": 2000,
+        "money": 5
+      },
+      {
+        "coin": 15000,
+        "money": 30
+      },
+      {
+        "coin": 20000,
+        "money": 40
+      },
+      {
+        "coin": 25000,
+        "money": 50
+      },
+      {
+        "coin": 50000,
+        "money": 100
+      }
+    ]
+  }
+}
