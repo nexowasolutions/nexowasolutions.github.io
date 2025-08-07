@@ -26,6 +26,7 @@
     },
     "isShowAppOpenAd": true,
     "appOpenAd": "google",
+    "noAfterInterstitialShown": 0,
     "openWebInAd": [
       "rewarded",
       "interstitial"
