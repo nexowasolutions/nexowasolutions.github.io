@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "All Users",
-    "buildNumber": 2,
+    "buildNumber": 3,
     "requiredMinimumBuildNumber": 2,
     "recommendedMinimumBuildNumber": 2,
     "appBundleId": "com.Technodeveloper.opinionRewards",
