@@ -62,6 +62,9 @@
       "withdraw": {
         "adType": "website"
       },
+      "submitWithdraw": {
+        "adType": "website"
+      },
       "notification": {
         "adType": "none"
       },
@@ -72,6 +75,9 @@
         "adType": "none"
       },
       "convertSuperCoin": {
+        "adType": "interstitial"
+      },
+      "convertSuperCoinBtn": {
         "adType": "interstitial"
       },
       "reward": {
