@@ -2,14 +2,14 @@
   "app": {
     "name": "All Users",
     "buildNumber": 4,
-    "requiredMinimumBuildNumber": 2,
-    "recommendedMinimumBuildNumber": 2,
+    "requiredMinimumBuildNumber": 3,
+    "recommendedMinimumBuildNumber": 3,
     "appBundleId": "com.Technodeveloper.opinionRewards",
     "dynamicLinkUrl": "https://opinionrewards.page.link",
     "shareText": "Hey! Download the app now {link}",
-    "showCopyReviewButton": true,
+    "showCopyReviewButton": false,
     "reviewRewardValue": 2,
-    "showReviewDialog": true,
+    "showReviewDialog": false,
     "secretKey": "y"
   },
   "ads": {
@@ -192,7 +192,7 @@
       "description": "Learn in-demand skills with our online courses.",
       "image": "https://t3.ftcdn.net/jpg/02/55/22/68/360_F_255226859_Rhqr5hflr2esVXHQE1sS1bWxmZxs0gWI.jpg",
       "logo": "https://img.freepik.com/premium-vector/education-logo-vector_1072857-11370.jpg",
-      "url": "https://nexowa.com/case-studies",
+      "url": "https://008.play.khelsaga.com/best-health-insurance-plans/",
       "action": "Enroll Now",
       "countries": ["ALL"]
     }
