@@ -15,7 +15,7 @@
   "ads": {
     "selectedAdNetwork": "google",
     "isShowAppOpenAd": true,
-    "appOpenAd": "google",
+    "appOpenAd": "skipFirstGoogle",
     "openWebInAd": ["rewarded", "interstitial"],
     "preferredBrowser": "chromeCustomTabs",
     "webAdsAlgo": "pro",
