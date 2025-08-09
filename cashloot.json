@@ -1,8 +1,8 @@
 {
-  "name": "6",
-  "buildNumber": "6",
-  "recommendedMinimumBuildNumber": 6,
-  "requiredMinimumBuildNumber": 6,
+  "name": "7",
+  "buildNumber": "7",
+  "recommendedMinimumBuildNumber": 7,
+  "requiredMinimumBuildNumber": 7,
   "isShowCopyReviewDialog": true,
   "showCopyReviewButton": true,
   "isMarqueeEnabled": true,
@@ -254,20 +254,7 @@
     "shareApp": "none"
   },
   "dailyRewardAmounts": [
-    100,
-    200,
-    300,
-    400,
-    500,
-    600,
-    700,
-    800,
-    900,
-    1000,
-    1100,
-    1200,
-    1300,
-    1400,
+    100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 1100, 1200, 1300, 1400,
     1500
   ],
   "dailyRewardMaxDays": 30,
@@ -362,9 +349,7 @@
       "logo": "https://games.quickgamehub.com/games/Subway%20Surfers%20Singapore/logo.webp",
       "webroute": "",
       "action": "Play Now",
-      "countries": [
-        "ALL"
-      ]
+      "countries": ["ALL"]
     },
     {
       "title": "Earn to Die",
@@ -373,9 +358,7 @@
       "logo": "https://games.quickgamehub.com/games/Earn%20to%20Die/logo.jpg",
       "webroute": "",
       "action": "Kill it Now",
-      "countries": [
-        "ALL"
-      ]
+      "countries": ["ALL"]
     },
     {
       "title": "Cut the Rope: Time Travel",
@@ -384,9 +367,7 @@
       "logo": "https://games.quickgamehub.com/games/Cut%20The%20Rope/logo.jpg",
       "webroute": "",
       "action": "Play Now",
-      "countries": [
-        "ALL"
-      ]
+      "countries": ["ALL"]
     },
     {
       "title": "Drift Hunters",
@@ -395,9 +376,7 @@
       "logo": "https://games.quickgamehub.com/games/Drift%20Hunters/logo.webp",
       "webroute": "",
       "action": "Drift Now",
-      "countries": [
-        "ALL"
-      ]
+      "countries": ["ALL"]
     },
     {
       "title": "चलो प्यार करते हैं… अभी ही!",
@@ -406,9 +385,7 @@
       "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_1.png",
       "webroute": "",
       "action": "देखने के लिए क्लिक करे",
-      "countries": [
-        "India"
-      ]
+      "countries": ["India"]
     },
     {
       "title": "कल रात मैंने तुम्हारे साथ बहुत हॉट सपना देखा!",
@@ -417,9 +394,7 @@
       "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_2.png",
       "webroute": "",
       "action": "देखने के लिए क्लिक करे",
-      "countries": [
-        "India"
-      ]
+      "countries": ["India"]
     },
     {
       "title": "सेक्सी वीडियो आपने ये वीडियो नहीं देखा तो देखलो",
@@ -428,9 +403,7 @@
       "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_3.png",
       "webroute": "",
       "action": "देखने के लिए क्लिक करे",
-      "countries": [
-        "India"
-      ]
+      "countries": ["India"]
     },
     {
       "title": "कैसे धड़कता है दिल की आवाज़ सुनाऊँ तुझको",
@@ -439,9 +412,7 @@
       "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_4.png",
       "webroute": "",
       "action": "देखने के लिए क्लिक करे",
-      "countries": [
-        "India"
-      ]
+      "countries": ["India"]
     },
     {
       "title": "आपके बाहोंमे ही जीने का मन करता है",
@@ -450,9 +421,7 @@
       "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_5.png",
       "webroute": "",
       "action": "देखने के लिए क्लिक करे",
-      "countries": [
-        "India"
-      ]
+      "countries": ["India"]
     },
     {
       "title": "कभी किसी लड़की को पटाकर तो देखो",
@@ -461,9 +430,7 @@
       "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_6.png",
       "webroute": "",
       "action": "देखने के लिए क्लिक करे",
-      "countries": [
-        "India"
-      ]
+      "countries": ["India"]
     },
     {
       "title": "उसकी याद में सारा वक़्त गुज़र जाता है",
@@ -472,9 +439,7 @@
       "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_7.png",
       "webroute": "",
       "action": "देखने के लिए क्लिक करे",
-      "countries": [
-        "India"
-      ]
+      "countries": ["India"]
     },
     {
       "title": "तेरे साथ की मोहब्बत आज भी जिंदा है",
@@ -483,9 +448,7 @@
       "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_8.png",
       "webroute": "",
       "action": "देखने के लिए क्लिक करे",
-      "countries": [
-        "India"
-      ]
+      "countries": ["India"]
     },
     {
       "title": "मेरे दिल में झांक कर देखो",
@@ -494,9 +457,7 @@
       "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_9.png",
       "webroute": "",
       "action": "देखने के लिए क्लिक करे",
-      "countries": [
-        "India"
-      ]
+      "countries": ["India"]
     },
     {
       "title": "दर्द उनको हुआ तो निकाल लिया मैंने",
@@ -505,9 +466,7 @@
       "logo": "https://raw.githubusercontent.com/ak-255/demo-images/main/round/round_10.png",
       "webroute": "",
       "action": "देखने के लिए क्लिक करे",
-      "countries": [
-        "India"
-      ]
+      "countries": ["India"]
     }
   ],
   "cardOrder": [
