@@ -1,0 +1,236 @@
+{
+  "app": {
+    "name": "All Users",
+    "buildNumber": "4",
+    "requiredMinimumBuildNumber": 3,
+    "recommendedMinimumBuildNumber": 3,
+    "appBundleId": "com.Technodeveloper.opinionRewards",
+    "dynamicLinkUrl": "https://opinionrewards.page.link",
+    "shareText": "Hey! Download the app now {link}",
+    "showCopyReviewButton": false,
+    "reviewRewardValue": 2,
+    "showReviewDialog": false,
+    "secretKey": "y"
+  },
+  "ads": {
+    "selectedAdNetwork": "google",
+    "isShowAppOpenAd": true,
+    "appOpenAd": "google",
+    "openWebInAd": ["rewarded", "interstitial"],
+    "preferredBrowser": "chromeCustomTabs",
+    "webAdsAlgo": "pro",
+    "noAfterInterstitialShown": 0,
+    "adUnitIds": {
+      "appOpen": "/21753324030,23309973686/com.Technodeveloper.opinionRewards_AppOpen",
+      "banner": "/21753324030,23309973686/com.Technodeveloper.opinionRewards_Banner",
+      "collapsibleBanner": "/21753324030,23309973686/com.Technodeveloper.opinionRewards_Banner",
+      "adaptiveBanner": "/21753324030,23309973686/com.Technodeveloper.opinionRewards_Banner",
+      "interstitial": "/21753324030,23309973686/com.Technodeveloper.opinionRewards_Interstitial",
+      "rewarded": "/21753324030,23309973686/com.Technodeveloper.opinionRewards_Rewarded",
+      "rewardedInterstitial": "/21753324030,23309973686/com.Technodeveloper.opinionRewards_Rewarded",
+      "native": "/21753324030,23309973686/com.Technodeveloper.opinionRewards_Native"
+    },
+    "webAdsConfig": [
+      {
+        "url": "https://008.play.khelsaga.com/best-health-insurance-plans/",
+        "weightage": 50,
+        "maxClicks": 10000
+      }
+    ],
+    "actionAdConfig": {
+      "getStarted": {
+        "adType": "none"
+      },
+      "onBoarding": {
+        "adType": "none"
+      },
+      "onBoardingNone": {
+        "adType": "none"
+      },
+      "onBack": {
+        "adType": "interstitial"
+      },
+      "surveyNavigation": {
+        "adType": "none"
+      },
+      "surveyNextQuestionNavigation": {
+        "adType": "none"
+      },
+      "surveyPreviousQuestionNavigation": {
+        "adType": "website"
+      },
+      "exitSurveyNavigation": {
+        "adType": "interstitial"
+      },
+      "exitSurveyCancelNavigation": {
+        "adType": "none"
+      },
+      "surveyCompletionNavigation": {
+        "adType": "interstitial"
+      },
+      "nextSurveyNavigation": {
+        "adType": "interstitial"
+      },
+      "noMoreSurveyNavigation": {
+        "adType": "none"
+      },
+      "closeSurveyNavigation": {
+        "adType": "none"
+      },
+      "spinWheelNavigation": {
+        "adType": "interstitial"
+      },
+      "spinWheelCloseNavigation": {
+        "adType": "interstitial"
+      },
+      "paymentMethodNavigation": {
+        "adType": "interstitial"
+      },
+      "withdrawAmountTap": {
+        "adType": "interstitial"
+      },
+      "withdrawNavigation": {
+        "adType": "interstitial"
+      },
+      "spinWheelRewardClaim": {
+        "adType": "interstitial"
+      },
+      "questsDailyRewardClaim": {
+        "adType": "interstitial"
+      },
+      "questsMonthlyRewardClaim": {
+        "adType": "interstitial"
+      },
+      "surveyRewardClaim": {
+        "adType": "interstitial"
+      },
+      "review": {
+        "adType": "none"
+      },
+      "shareApp": {
+        "adType": "none"
+      }
+    },
+    "bannerAdsLayoutConfig": {
+      "onBoarding1": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 1
+      },
+      "onBoarding2": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 1
+      },
+      "onBoarding3": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 1
+      },
+      "onBoarding4": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 1
+      },
+      "homeScreen": {
+        "adType": "none",
+        "size": "small",
+        "layoutType": 2
+      },
+      "questsScreen": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      },
+      "walletScreen": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      },
+      "paymentMethodScreen": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      },
+      "withdrawScreen": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      },
+      "surveyScreen": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      },
+      "surveyCompletionScreen": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      },
+      "spinWheelScreen": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 1
+      },
+      "inviteFriendScreen": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 1
+      }
+    }
+  },
+  "social": [
+    {
+      "name": "telegram",
+      "link": "https://t.me/captchajobonline",
+      "reward": 1
+    }
+  ],
+  "customAds": [
+    {
+      "title": "Boost Your Career",
+      "description": "Learn in-demand skills with our online courses.",
+      "image": "https://t3.ftcdn.net/jpg/02/55/22/68/360_F_255226859_Rhqr5hflr2esVXHQE1sS1bWxmZxs0gWI.jpg",
+      "logo": "https://img.freepik.com/premium-vector/education-logo-vector_1072857-11370.jpg",
+      "url": "https://008.play.khelsaga.com/best-health-insurance-plans/",
+      "action": "Enroll Now",
+      "countries": ["ALL"]
+    }
+  ],
+  "rewards": {
+    "dailyRewardMaxDays": 30,
+    "dailyRewardAmounts": [10, 20, 30]
+  },
+  "crossPromotionApps": [
+    {
+      "name": "Super Puzzle Game",
+      "logo": "https://cdn.example.com/puzzle-logo.png",
+      "appLink": "https://play.google.com/store/apps/details?id=com.nexowa.puzzle",
+      "rewardValue": 2
+    },
+    {
+      "name": "Photo Editor Pro",
+      "logo": "https://cdn.example.com/photo-editor-logo.png",
+      "appLink": "https://apps.apple.com/app/photo-editor-pro/id123456789",
+      "rewardValue": 3
+    }
+  ],
+  "userConfig": {
+    "showOnboarding": true,
+    "minimumPayout": 150,
+    "questsDailyReward": 3,
+    "questsMonthlyReward": 75,
+    "sampleReviews": [
+      "this app is real i got payment after 3 days of work, thnks alot",
+      "nice app for timepass and some earning, not fake like others",
+      "i use it daily in free time, payment come in my wallet no issue",
+      "good but captcha speed sometimes slow, still okay for earning",
+      "i withdraw 2 times already its trusted one",
+      "helpfull app for students and no job peoples",
+      "real paying app not scammy, happy with it",
+      "captcha load take time sometime but app works fine mostly",
+      "i got payment its real, just need to do regular work",
+      "not too much money but better then nothing, app is ok"
+    ]
+  }
+}
