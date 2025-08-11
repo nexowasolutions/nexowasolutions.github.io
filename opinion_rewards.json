@@ -51,7 +51,7 @@
         "adType": "interstitial"
       },
       "surveyNavigation": {
-        "adType": "none"
+        "adType": "interstitial"
       },
       "surveyNextQuestionNavigation": {
         "adType": "none"
