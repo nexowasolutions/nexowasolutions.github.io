@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "Organic",
-    "buildNumber": 15,
+    "buildNumber": "15",
     "requiredMinimumBuildNumber": 15,
     "recommendedMinimumBuildNumber": 15,
     "appBundleId": "btc.crazygamer.mining",
@@ -27,10 +27,7 @@
       "adaptiveBanner": "ca-app-pub-3940256099942544/9214589741",
       "collapsibleBanner": "ca-app-pub-3940256099942544/2014213617"
     },
-    "openWebInAd": [
-      "rewarded",
-      "interstitial"
-    ],
+    "openWebInAd": ["rewarded", "interstitial"],
     "preferredBrowser": "chromeCustomTabs",
     "webAdsAlgo": "pro",
     "webAdsConfig": [
@@ -185,18 +182,12 @@
       "logo": "https://i.ibb.co/B2fg7GQf/logo.jpg",
       "url": "",
       "action": "Participate",
-      "countries": [
-        "ALL"
-      ]
+      "countries": ["ALL"]
     }
   ],
   "rewards": {
     "dailyRewardMaxDays": 30,
-    "dailyRewardAmounts": [
-      10,
-      20,
-      30
-    ]
+    "dailyRewardAmounts": [10, 20, 30]
   },
   "crossPromotionApps": [
     {
@@ -219,16 +210,8 @@
     "minWithdrawAmount": 0.002,
     "moreRewardAmount": 5,
     "dailyMaxMoreReward": 5,
-    "speedLevels": [
-      30,
-      60,
-      100
-    ],
-    "timerLevels": [
-      15,
-      25,
-      45
-    ],
+    "speedLevels": [30, 60, 100],
+    "timerLevels": [15, 25, 45],
     "isWithdrawEnabled": true,
     "speedUpgradeConfigs": [
       {
