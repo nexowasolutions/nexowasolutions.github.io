@@ -231,6 +231,23 @@
       "captcha load take time sometime but app works fine mostly",
       "i got payment its real, just need to do regular work",
       "not too much money but better then nothing, app is ok"
+    ],
+    "withdrawOptions": [
+      {
+        "money": 175
+      },
+      {
+        "money": 250
+      },
+      {
+        "money": 350
+      },
+      {
+        "money": 450
+      },
+      {
+        "money": 2500
+      }
     ]
   }
 }
