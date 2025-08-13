@@ -2,8 +2,8 @@
   "app": {
     "name": "All Users",
     "buildNumber": "7",
-    "requiredMinimumBuildNumber": 3,
-    "recommendedMinimumBuildNumber": 3,
+    "requiredMinimumBuildNumber": 7,
+    "recommendedMinimumBuildNumber": 7,
     "appBundleId": "com.Technodeveloper.opinionRewards",
     "dynamicLinkUrl": "https://opinionrewards.page.link",
     "shareText": "Hey! Download the app now {link}",
