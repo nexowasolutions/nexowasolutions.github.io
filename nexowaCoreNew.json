@@ -1,0 +1,194 @@
+{
+  "app": {
+    "name": "Nexowa App Example",
+    "buildNumber": 100,
+    "requiredMinimumBuildNumber": 1,
+    "recommendedMinimumBuildNumber": 5,
+    "appBundleId": "com.example.nexowa_core",
+    "dynamicLinkUrl": "https://nexowaexample.page.link",
+    "shareText": "This is Amazing App {link}",
+    "telegramChannelUrl": "",
+    "youtubeChannelUrl": "",
+    "showCopyReviewButton": true,
+    "reviewRewardValue": 50,
+    "showReviewDialog": true
+  },
+  "ads": {
+    "selectedAdNetwork": "google",
+    "appOpenAd": "none",
+    "isShowAppOpenAd": true,
+    "openWebInAd": ["rewarded", "interstitial"],
+    "preferredBrowser": "chromeCustomTabs",
+    "webAdsAlgo": "normal",
+    "webAdsConfig": [
+      { "url": "https://google.com/", "weightage": 50, "maxClicks": 500 }
+    ],
+    "adUnitIds": {
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "collapsibleBanner": "ca-app-pub-3940256099942544/2014213617",
+      "adaptiveBanner": "ca-app-pub-3940256099942544/9214589741",
+      "interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded": "ca-app-pub-3940256099942544/5224354917",
+      "rewardedInterstitial": "ca-app-pub-3940256099942544/5354046379",
+      "native": "ca-app-pub-3940256099942544/2247696110",
+      "appOpen": "ca-app-pub-3940256099942544/9257395921"
+    },
+    "actionAdConfig": {
+      "onNext": { "adType": "rewarded" },
+      "onNext2": { "adType": "Interstitial" },
+      "onPrevious": { "adType": "rewarded" },
+      "onClose": { "adType": "rewardedInterstitial" },
+      "onShare": { "adType": "website" },
+      "onCopy": {
+        "adType": "website",
+        "url": "https://nexowa.com/case-studies"
+      },
+      "onPaste": { "adType": "website" },
+      "onCut": { "adType": "website" },
+      "staticUrl": { "adType": "website" },
+      "onAd": { "adType": "website" },
+      "website": { "adType": "website" },
+      "rewarded": { "adType": "rewarded" },
+      "interstitial": { "adType": "interstitial" },
+      "rewardedInterstitial": { "adType": "rewardedInterstitial" },
+      "none": { "adType": "none" }
+    },
+    "bannerAdsLayoutConfig": {
+      "nativeMediumAd1": {
+        "adType": "nativeAd",
+        "size": "medium",
+        "layoutType": 1
+      },
+      "nativeMediumAd2": {
+        "adType": "nativeAd",
+        "size": "medium",
+        "layoutType": 2
+      },
+      "nativeMediumAd3": {
+        "adType": "nativeAd",
+        "size": "medium",
+        "layoutType": 3
+      },
+      "nativeStaticMediumAd4": {
+        "adType": "customAd",
+        "size": "medium",
+        "layoutType": 3
+      },
+      "nativeSmallAd1": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 1
+      },
+      "nativeSmallAd2": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      },
+      "nativeSmallAd3": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 3
+      },
+      "nativeStaticSmallAd4": {
+        "adType": "customAd",
+        "size": "small",
+        "layoutType": 3
+      },
+      "nativeSquareAd": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 4
+      },
+      "MixAdsTestingScreen": {
+        "adType": "bannerAd",
+        "size": "small",
+        "layoutType": 1
+      },
+      "nativeFullScreenAd": {
+        "adType": "nativeAd",
+        "size": "large",
+        "layoutType": 2
+      },
+      "nativeStaticFullScreenAd": {
+        "adType": "customAd",
+        "size": "large",
+        "layoutType": 3
+      },
+      "nativeTestingScreen1": {
+        "adType": "nativeAd",
+        "size": "medium",
+        "layoutType": 1
+      },
+      "nativeTestingScreen2": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 1
+      },
+      "nativeTestingScreen3": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 2
+      },
+      "nativeTestingScreen4": {
+        "adType": "nativeAd",
+        "size": "small",
+        "layoutType": 3
+      },
+      "bannerTestingScreen1": {
+        "adType": "bannerAd",
+        "size": "small",
+        "layoutType": 1
+      },
+      "bannerTestingScreen2": {
+        "adType": "bannerAd",
+        "size": "medium",
+        "layoutType": 1
+      },
+      "bannerTestingScreen3": {
+        "adType": "bannerAd",
+        "size": "large",
+        "layoutType": 1
+      },
+      "collapsibleAdScreen": {
+        "adType": "bannerAd",
+        "size": "collapsible",
+        "layoutType": 1
+      },
+      "adaptiveBannerAdScreen": {
+        "adType": "bannerAd",
+        "size": "adaptive",
+        "layoutType": 1
+      },
+      "nativeTestAd": { "adType": "nativeAd", "size": "small", "layoutType": 2 }
+    }
+  },
+  "rewards": {
+    "dailyRewardMaxDays": 30,
+    "dailyRewardAmounts": [10, 20, 30]
+  },
+  "customAds": [
+    {
+      "title": "Boost Your Career",
+      "description": "Learn in-demand skills with our online courses.",
+      "image": "https://t3.ftcdn.net/jpg/02/55/22/68/360_F_255226859_Rhqr5hflr2esVXHQE1sS1bWxmZxs0gWI.jpg",
+      "logo": "https://img.freepik.com/premium-vector/education-logo-vector_1072857-11370.jpg",
+      "url": "https://nexowa.com/case-studies",
+      "action": "Enroll Now",
+      "countries": ["ALL"]
+    }
+  ],
+  "crossPromotionApps": [
+    {
+      "name": "Super Puzzle Game",
+      "logo": "https://cdn.example.com/puzzle-logo.png",
+      "appLink": "https://play.google.com/store/apps/details?id=com.nexowa.puzzle",
+      "rewardValue": 25
+    },
+    {
+      "name": "Photo Editor Pro",
+      "logo": "https://cdn.example.com/photo-editor-logo.png",
+      "appLink": "https://apps.apple.com/app/photo-editor-pro/id123456789",
+      "rewardValue": 30
+    }
+  ]
+}
